@@ -1,0 +1,21 @@
+# Awesome Privacy Protection Papers
+
+A curated list of awesome privacy protection papers.
+
+## Contents
+
+- [Differential Privacy](#differential-privacy)
+
+> Legend:
+> 
+> | :ledger: | :memo: | :keyboard: | :camera: | :floppy_disk: |
+> | :-: | :-: |  :-: |  :-: |  :-: | 
+> | PDF<br>Files | Notes | Code | Slides | Other<br>Supplementaries |
+
+---
+
+#### Differential Privacy
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PrivSR | Personalized Privacy-Preserving Social Recommendation | Xuying Meng, Suhang Wang, Kai Shu, Jundong Li, Bo Chen, Huan Liu, Yujun Zhang | AAAI | 2018 | [:ledger:](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf) |  | [:floppy_disk:](https://github.com/mxyenguing/PrivSR/blob/master/appendix.pdf) |
