@@ -1,1 +1,7 @@
-# privacy-protection
+# Awesome Privacy Protection Research Materials
+
+A curated list of awesome privacy protection research materials.
+
+### Contents
+
+- [Papers](papers)
