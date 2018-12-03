@@ -19,7 +19,7 @@ A curated list of awesome privacy protection papers.
 #### Policy Brief
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|  | China's Social Credit System: A Mark of Progress or a Threat to Privacy? | Martin Chorzempa, Paul Triolo, Samm Sacks |  | 2018 | [:ledger:](https://piie.com/system/files/documents/pb18-14.pdf) |  | [:floppy_disk:](http://www.yuandiancredit.com/h-nd-2945.html) |
+|  | China's Social Credit System: A Mark of Progress or a Threat to Privacy? | Martin Chorzempa, Paul Triolo, Samm Sacks |  | 2018 | [:ledger:](https://piie.com/system/files/documents/pb18-14.pdf) | / | [:floppy_disk:](http://www.yuandiancredit.com/h-nd-2945.html) |
 
 [:top:](#contents)
 
