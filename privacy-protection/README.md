@@ -4,4 +4,8 @@ A curated list of awesome privacy protection research materials.
 
 ### Contents
 
+- [Books](books)
+
+- [Courses](courses)
+
 - [Papers](papers)
