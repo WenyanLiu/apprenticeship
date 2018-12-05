@@ -16,7 +16,7 @@ A curated list of awesome privacy protection courses.
 
 #### Differential Privacy
 | | Instructors | Institution | Year | Files | Notes | Supplementaries |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | The Algorithmic Foundations of Data Privacy | Aaron Roth | Penn | Fall 2011 | [:ledger:](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) |  | [:floppy_disk:](https://www.nowpublishers.com/article/Details/TCS-042) |
 
 [:top:](#contents)
