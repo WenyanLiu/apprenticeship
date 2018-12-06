@@ -5,6 +5,7 @@ A curated list of awesome privacy protection papers.
 ## Contents
 
 - [Policy Brief](#policy-brief)
+- [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 
@@ -20,6 +21,13 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | China's Social Credit System: A Mark of Progress or a Threat to Privacy? | Martin Chorzempa, Paul Triolo, Samm Sacks |  | 2018 | [:ledger:](https://piie.com/system/files/documents/pb18-14.pdf) | / | [:floppy_disk:](http://www.yuandiancredit.com/h-nd-2945.html) |
+
+[:top:](#contents)
+
+#### Differential Privacy Basic Techniques
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](http://delivery.acm.org/10.1145/3060000/3055331/p637-lyu.pdf) | | |
 
 [:top:](#contents)
 
