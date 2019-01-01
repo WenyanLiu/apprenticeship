@@ -6,6 +6,7 @@ A curated list of awesome privacy protection papers.
 
 - [Policy Brief](#policy-brief)
 - [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
+- [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 
@@ -28,6 +29,13 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](http://delivery.acm.org/10.1145/3060000/3055331/p637-lyu.pdf) | | |
+
+[:top:](#contents)
+
+#### Differentially Private Data Publishing and Analysis
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Differentially private data publishing for data analysis | Dong Su | | 2016 | [:ledger:](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=2220&context=open_access_dissertations) | | |
 
 [:top:](#contents)
 
