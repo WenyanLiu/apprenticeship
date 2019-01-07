@@ -7,6 +7,7 @@ A curated list of awesome privacy protection papers.
 - [Policy Brief](#policy-brief)
 - [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
 - [Differentially Private Framework](#differentially-private-framework)
+- [Differentially Private Benchmark](#differentially-private-benchmark)
 - [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
@@ -42,6 +43,12 @@ A curated list of awesome privacy protection papers.
 - [ ] Fuzz: `Marco Gaboardi, Andreas Haeberlen, Justin Hsu, Arjun Narayan, Benjamin C. Pierce: Linear dependent types for differential privacy. POPL 2013: 357-370`
 - [ ] PrivInfer: `Gilles Barthe, Gian Pietro Farina, Marco Gaboardi, Emilio Jesús Gallego Arias, Andy Gordon, Justin Hsu, Pierre-Yves Strub: Differentially Private Bayesian Programming. ACM Conference on Computer and Communications Security 2016: 68-79`
 - [ ] LightDP: `Danfeng Zhang, Daniel Kifer: LightDP: towards automating differential privacy proofs. POPL 2017: 888-901`
+
+[:top:](#contents)
+
+#### Differentially Private Benchmark
+
+- [ ] DPBench: `Michael Hay, Ashwin Machanavajjhala, Gerome Miklau, Yan Chen, Dan Zhang: Principled Evaluation of Differentially Private Algorithms using DPBench. SIGMOD Conference 2016: 139-154`
 
 [:top:](#contents)
 
