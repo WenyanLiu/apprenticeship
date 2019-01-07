@@ -6,6 +6,7 @@ A curated list of awesome privacy protection papers.
 
 - [Policy Brief](#policy-brief)
 - [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
+- [Differentially Private Framework](#differentially-private-framework)
 - [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
@@ -29,6 +30,13 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](http://delivery.acm.org/10.1145/3060000/3055331/p637-lyu.pdf) | | |
+
+[:top:](#contents)
+
+#### Differentially Private Framework
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| <img src="https://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" />KTELO | <img src="https://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" />KTELO: A Framework for Defining Differentially-Private Computations | Dan Zhang, Ryan McKenna, Ios Kotsogiannis, Michael Hay, Ashwin Machanavajjhala, Gerome Miklau | SIGMOD | 2018 | [:ledger:](http://delivery.acm.org/10.1145/3200000/3196921/p115-zhang.pdf?ip=199.115.228.168&id=3196921&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E9935F2740A6C9A1B&__acm__=1546859206_61ef924e2e13cf8cde1efa1766925db2) | | |
 
 [:top:](#contents)
 
