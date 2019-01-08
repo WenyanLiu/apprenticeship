@@ -5,6 +5,7 @@ A curated list of awesome privacy protection papers.
 ## Contents
 
 - [Policy Brief](#policy-brief)
+- [Survey](#survey)
 - [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
 - [Differentially Private Framework](#differentially-private-framework)
 - [Differentially Private Benchmark](#differentially-private-benchmark)
@@ -24,6 +25,15 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | China's Social Credit System: A Mark of Progress or a Threat to Privacy? | Martin Chorzempa, Paul Triolo, Samm Sacks |  | 2018 | [:ledger:](https://piie.com/system/files/documents/pb18-14.pdf) | / | [:floppy_disk:](http://www.yuandiancredit.com/h-nd-2945.html) |
+
+[:top:](#contents)
+
+#### Survey
+| Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Differentially Private Data Publishing and Analysis: A Survey | Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu | TKDE | 2017 | [:ledger:](https://ieeexplore.ieee.org/abstract/document/7911185) | | |
+| Privacy for Recommender Systems: Tutorial Abstract | Bart P. Knijnenburg, Shlomo Berkovsky | RecSys | 2017 | [:ledger:](https://dl.acm.org/citation.cfm?id=3109935) | | [:camera:](https://www.dropbox.com/s/55sdr62pqmpr20p/privacy-tutorial.pdf) |
+| Privacy in Location-Based Services: State-of-the-Art and Research Directions | Mohamed F. Mokbel | MDM | 2007 | [:ledger:](https://ieeexplore.ieee.org/abstract/document/4417152) | | [:camera:](https://www-users.cs.umn.edu/~mokbel/tutorials/MDM07-Privacy.ppt) |
 
 [:top:](#contents)
 
