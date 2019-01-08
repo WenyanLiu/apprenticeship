@@ -17,7 +17,8 @@ A curated list of awesome privacy protection books.
 #### Differential Privacy
 | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| The Algorithmic Foundations of Differential Privacy | Cynthia Dwork, Aaron Roth | TCS | 2014 | [:ledger:](https://www.nowpublishers.com/article/Details/TCS-042) |  | [:floppy_disk:](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) |
+
+- [ ] `| The Algorithmic Foundations of Differential Privacy | Cynthia Dwork, Aaron Roth | TCS | 2014 | [:ledger:](https://www.nowpublishers.com/article/Details/TCS-042) |  | [:floppy_disk:](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) |`
 
 - [ ] `Jordi Soria-Comas, Josep Domingo-Ferrer: Optimal data-independent noise for differential privacy. Inf. Sci. 250: 200-214 (2013)`
 - [ ] `Tianqing Zhu, Gang Li, Wanlei Zhou, Philip S. Yu: Differential Privacy and Applications. Advances in Information Security 69, Springer 2017, ISBN 978-3-319-62002-2, pp. 1-222`
