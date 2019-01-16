@@ -101,4 +101,7 @@ A curated list of awesome privacy protection papers.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | AGD+ | On Acceleration with Noise-Corrupted Gradients | Michael Cohen, Jelena Diakonikolas, Lorenzo Orecchia | ICML | 2018 | [:ledger:](http://proceedings.mlr.press/v80/cohen18a/cohen18a.pdf) |  | [:floppy_disk:](http://proceedings.mlr.press/v80/cohen18a/cohen18a-supp.pdf) |
 
+- [ ] `Olivier Devolder, François Glineur, Yurii Nesterov: First-order methods of smooth convex optimization with inexact oracle. Math. Program. 146(1-2): 37-75 (2014)`
+- [ ] `Alexandre d'Aspremont: Smooth Optimization with Approximate Gradient. SIAM Journal on Optimization 19(3): 1171-1183 (2008)`
+
 [:top:](#contents)
