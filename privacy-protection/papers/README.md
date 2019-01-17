@@ -10,6 +10,7 @@ A curated list of awesome privacy protection papers.
 - [Differentially Private Framework](#differentially-private-framework)
 - [Differentially Private Benchmark](#differentially-private-benchmark)
 - [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
+- [Differentially Private Frequent Itemset Mining](#differentially-private-frequent-itemset-mining)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 - [Large-Scale Optimization](#large-scale-optimization)
@@ -71,6 +72,13 @@ A curated list of awesome privacy protection papers.
 - [ ] `| JTree | Differentially Private High-Dimensional Data Publication via Sampling-Based Inference | Rui Chen, Qian Xiao, Yu Zhang, Jianliang Xu | KDD | 2015 | [:ledger:](https://www.comp.hkbu.edu.hk/~xujl/Papers/kdd15.pdf) | | |`
 - [ ] `| NoisyCut | Top-k frequent itemsets via differentially private FP-trees | Jaewoo Lee, Christopher W. Clifton | KDD | 2014 | [:ledger:](https://cybersecurity.uga.edu/publications/VI_KDD2014.pdf) | | |`
 - [ ] `| PTT<br>k-RecursiveMedians | Differentially Private Algorithms for Empirical Machine Learning | Ben Stoddard, Yan Chen, Ashwin Machanavajjhala | CoRR | 2014 | [:ledger:](https://arxiv.org/pdf/1411.5428.pdf) | | |`
+
+[:top:](#contents)
+
+#### Differentially Private Frequent Itemset Mining
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PrivBasis | PrivBasis: Frequent Itemset Mining with Differential Privacy | Ninghui Li, Wahbeh H. Qardaji, Dong Su, Jianneng Cao | PVLDB | 2012 | [:ledger:](https://dl.acm.org/citation.cfm?id=2350251) | | |
 
 [:top:](#contents)
 
