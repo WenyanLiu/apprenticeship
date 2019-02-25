@@ -11,6 +11,7 @@ A curated list of awesome privacy protection papers.
 - [Differentially Private Benchmark](#differentially-private-benchmark)
 - [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
 - [Differentially Private Frequent Itemset Mining](#differentially-private-frequent-itemset-mining)
+- [Differentially Private Graph Data](#differentially-private-graph-data)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 - [Large-Scale Optimization](#large-scale-optimization)
@@ -82,6 +83,13 @@ A curated list of awesome privacy protection papers.
 | Diff-FPM | Mining frequent graph patterns with differential privacy | Entong Shen, Ting Yu | KDD | 2013 | [:ledger:](https://dl.acm.org/citation.cfm?doid=2487575.2487601) | | |
 
 - [ ] `| PrivBasis | PrivBasis: Frequent Itemset Mining with Differential Privacy | Ninghui Li, Wahbeh H. Qardaji, Dong Su, Jianneng Cao | PVLDB | 2012 | [:ledger:](https://dl.acm.org/citation.cfm?id=2350251) | | [:keyboard:](https://github.com/DongSuIBM/PrivBasis) |`
+
+[:top:](#contents)
+
+#### Differentially Private Graph Data
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| GSN-DP | Geo-social network publication based on differential privacy | Xiaochun Wang, Yidong Li | FCS | 2018 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-018-8075-z) | | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20181115103924.zip) |
 
 [:top:](#contents)
 
