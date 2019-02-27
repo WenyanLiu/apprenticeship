@@ -15,6 +15,7 @@ A curated list of awesome privacy protection papers.
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 - [Large-Scale Optimization](#large-scale-optimization)
+- [Secure Data Publishing and Mining](#secure-data-publishing-and-mining)
 - [Searchable Encryption](#searchable-encryption)
 
 **Legend**:
@@ -122,6 +123,13 @@ A curated list of awesome privacy protection papers.
 
 - [ ] `Olivier Devolder, François Glineur, Yurii Nesterov: First-order methods of smooth convex optimization with inexact oracle. Math. Program. 146(1-2): 37-75 (2014)`
 - [ ] `Alexandre d'Aspremont: Smooth Optimization with Approximate Gradient. SIAM Journal on Optimization 19(3): 1171-1183 (2008)`
+
+[:top:](#contents)
+
+#### Secure Data Publishing and Mining
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Efficient privacy-preserving temporal and spacial data aggregation for smart grid communications | Xiaolei Dong, Jun Zhou, Zhenfu Cao | Concurrency | 2016 | [:ledger:](https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.3570) | [:memo:](notes/figures/EPPDA.png) | |
 
 [:top:](#contents)
 
