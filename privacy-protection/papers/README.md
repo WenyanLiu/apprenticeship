@@ -12,6 +12,7 @@ A curated list of awesome privacy protection papers.
 - [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
 - [Differentially Private Frequent Itemset Mining](#differentially-private-frequent-itemset-mining)
 - [Differentially Private Graph Data](#differentially-private-graph-data)
+- [Differentially Private Image Data](#differentially-private-image-data)
 - [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
 - [Differentially Private Streaming Data](#differentially-private-streaming-data)
 - [Large-Scale Optimization](#large-scale-optimization)
@@ -91,6 +92,13 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | GSN-DP | Geo-social network publication based on differential privacy | Xiaochun Wang, Yidong Li | FCS | 2018 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-018-8075-z) |  [:memo:](notes/2019-2-25-gsn-dp.md) | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20181115103924.zip) |
+
+[:top:](#contents)
+
+#### Differentially Private Image Data
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BEMK | 面向人脸图像发布的差分隐私保护 | 张啸剑, 付聪聪, 孟小峰 | JIG | 2018 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=ZGTB201809004) |  |  |
 
 [:top:](#contents)
 
