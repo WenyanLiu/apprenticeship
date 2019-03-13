@@ -6,15 +6,15 @@ A curated list of awesome privacy protection papers.
 
 - [Policy Brief](#policy-brief)
 - [Survey](#survey)
-- [Differential Privacy Basic Techniques](#differential-privacy-basic-techniques)
-- [Differentially Private Framework](#differentially-private-framework)
-- [Differentially Private Benchmark](#differentially-private-benchmark)
-- [Differentially Private Data Publishing and Analysis](#differentially-private-data-publishing-and-analysis)
-- [Differentially Private Frequent Itemset Mining](#differentially-private-frequent-itemset-mining)
-- [Differentially Private Graph Data](#differentially-private-graph-data)
-- [Differentially Private Image Data](#differentially-private-image-data)
-- [Differentially Private Recommender Systems](#differentially-private-recommender-systems)
-- [Differentially Private Streaming Data](#differentially-private-streaming-data)
+- [Basic Techniques](#basic-techniques)
+- [Private Framework](#private-framework)
+- [Private Benchmark](#private-benchmark)
+- [Private Data Publishing and Analysis](#private-data-publishing-and-analysis)
+- [Private Frequent Itemset Mining](#private-frequent-itemset-mining)
+- [Private Graph Data](#private-graph-data)
+- [Private Image Data](#private-image-data)
+- [Private Recommender Systems](#private-recommender-systems)
+- [Private Streaming Data](#private-streaming-data)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Secure Data Publishing and Mining](#secure-data-publishing-and-mining)
 - [Searchable Encryption](#searchable-encryption)
@@ -28,6 +28,7 @@ A curated list of awesome privacy protection papers.
 ---
 
 #### Policy Brief
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |  | China's Social Credit System: A Mark of Progress or a Threat to Privacy? | Martin Chorzempa, Paul Triolo, Samm Sacks |  | 2018 | [:ledger:](https://piie.com/publications/policy-briefs/chinas-social-credit-system-mark-progress-or-threat-privacy) | / | [:floppy_disk:](http://www.yuandiancredit.com/h-nd-2945.html) |
@@ -35,6 +36,7 @@ A curated list of awesome privacy protection papers.
 [:top:](#contents)
 
 #### Survey
+
 | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Federated Machine Learning: Concept and Applications | Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong | TIST | 2019 | [:ledger:](https://arxiv.org/abs/1902.04885) | [:memo:](notes/figures/SFL.png) | [:floppy_disk:](https://mp.weixin.qq.com/s/6QKyE3jIOwBK_2rcG-Vtiw) |
@@ -44,14 +46,16 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Differential Privacy Basic Techniques
+#### Basic Techniques
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](https://dl.acm.org/citation.cfm?id=3055331) | | |
 
 [:top:](#contents)
 
-#### Differentially Private Framework
+#### Private Framework
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | <img src="https://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" />KTELO | <img src="https://latex.codecogs.com/gif.latex?\epsilon" title="\epsilon" />KTELO: A Framework for Defining Differentially-Private Computations | Dan Zhang, Ryan McKenna, Ios Kotsogiannis, Michael Hay, Ashwin Machanavajjhala, Gerome Miklau | SIGMOD | 2018 | [:ledger:](https://dl.acm.org/citation.cfm?id=3196921) | | [:keyboard:](https://github.com/ektelo/ektelo) |
@@ -63,13 +67,14 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Differentially Private Benchmark
+#### Private Benchmark
 
 - [ ] DPBench: `Michael Hay, Ashwin Machanavajjhala, Gerome Miklau, Yan Chen, Dan Zhang: Principled Evaluation of Differentially Private Algorithms using DPBench. SIGMOD Conference 2016: 139-154`
 
 [:top:](#contents)
 
-#### Differentially Private Data Publishing and Analysis
+#### Private Data Publishing and Analysis
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 
@@ -80,7 +85,8 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Differentially Private Frequent Itemset Mining
+#### Private Frequent Itemset Mining
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Diff-FPM | Mining frequent graph patterns with differential privacy | Entong Shen, Ting Yu | KDD | 2013 | [:ledger:](https://dl.acm.org/citation.cfm?doid=2487575.2487601) | | |
@@ -89,21 +95,23 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Differentially Private Graph Data
+#### Private Graph Data
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | GSN-DP | Geo-social network publication based on differential privacy | Xiaochun Wang, Yidong Li | FCS | 2018 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-018-8075-z) |  [:memo:](notes/2019-2-25-gsn-dp.md) | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20181115103924.zip) |
 
 [:top:](#contents)
 
-#### Differentially Private Image Data
+#### Private Image Data
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | BEMK | 面向人脸图像发布的差分隐私保护 | 张啸剑, 付聪聪, 孟小峰 | JIG | 2018 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=ZGTB201809004) | [:memo:](notes/figures/BEMK.png) |  |
 
 [:top:](#contents)
 
-#### Differentially Private Recommender Systems
+#### Private Recommender Systems
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -114,7 +122,7 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Differentially Private Streaming Data
+#### Private Streaming Data
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
