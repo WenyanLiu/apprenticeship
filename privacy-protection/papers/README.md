@@ -10,6 +10,7 @@ A curated list of awesome privacy protection papers.
 - [Private Framework](#private-framework)
 - [Private Benchmark](#private-benchmark)
 - [Private Data Publishing and Analysis](#private-data-publishing-and-analysis)
+- [Private Deep Learning](#private-deep-learning)
 - [Private Frequent Itemset Mining](#private-frequent-itemset-mining)
 - [Private Graph Data](#private-graph-data)
 - [Private Image Data](#private-image-data)
@@ -82,6 +83,14 @@ A curated list of awesome privacy protection papers.
 - [ ] `| JTree | Differentially Private High-Dimensional Data Publication via Sampling-Based Inference | Rui Chen, Qian Xiao, Yu Zhang, Jianliang Xu | KDD | 2015 | [:ledger:](https://www.comp.hkbu.edu.hk/~xujl/Papers/kdd15.pdf) | | |`
 - [ ] `| NoisyCut | Top-k frequent itemsets via differentially private FP-trees | Jaewoo Lee, Christopher W. Clifton | KDD | 2014 | [:ledger:](https://cybersecurity.uga.edu/publications/VI_KDD2014.pdf) | | |`
 - [ ] `| PTT<br>k-RecursiveMedians | Differentially Private Algorithms for Empirical Machine Learning | Ben Stoddard, Yan Chen, Ashwin Machanavajjhala | CoRR | 2014 | [:ledger:](https://arxiv.org/pdf/1411.5428.pdf) | | |`
+
+[:top:](#contents)
+
+#### Private Deep Learning
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Federated CIFG | Federated Learning for Mobile Keyboard Prediction | Andrew Hard, Kanishka Rao, Rajiv Mathews, Françoise Beaufays, Sean Augenstein, Hubert Eichner, Chloé Kiddon, Daniel Ramage | CoRR | 2018 | [:ledger:](https://arxiv.org/abs/1811.03604) | | [:floppy_disk:](https://mp.weixin.qq.com/s/fgV8wHd2lQEngzZGXteXTw)|
 
 [:top:](#contents)
 
