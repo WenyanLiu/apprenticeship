@@ -17,7 +17,7 @@ A curated list of awesome privacy protection books.
 #### Differential Privacy
 | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| 数据库系统概论 | 王珊, 萨师煊 | 高等教育出版社 | 2014 | [:memo:](notes/figures/数据库安全性.png) | |
+| 数据库系统概论 | 王珊, 萨师煊 | 高等教育出版社 | 2014 | | [:memo:](notes/figures/数据库安全性.png) | |
 
 - [ ] `| The Algorithmic Foundations of Differential Privacy | Cynthia Dwork, Aaron Roth | TCS | 2014 | [:ledger:](https://www.nowpublishers.com/article/Details/TCS-042) |  | [:floppy_disk:](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) |`
 
