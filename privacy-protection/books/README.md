@@ -2,10 +2,6 @@
 
 A curated list of awesome privacy protection books.
 
-## Contents
-
-- [Differential Privacy](#differential-privacy)
-
 **Legend**:
 
 | :ledger: | :memo: | :keyboard: | :camera: | :floppy_disk: |
@@ -14,7 +10,6 @@ A curated list of awesome privacy protection books.
 
 ---
 
-#### Differential Privacy
 | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 数据库系统概论 | 王珊, 萨师煊 | 高等教育出版社 | 2014 | | [:memo:](notes/figures/数据库安全性.png) | |
