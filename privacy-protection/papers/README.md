@@ -19,6 +19,7 @@ A curated list of awesome privacy protection papers.
 - [Private Deep Learning](#private-deep-learning)
 - [Private Recommender Systems](#private-recommender-systems)
 - [Large-Scale Optimization](#large-scale-optimization)
+- [Combinatorial optimization](#combinatorial-optimization)
 - [Searchable Encryption](#searchable-encryption)
 
 **Legend**:
@@ -160,6 +161,11 @@ A curated list of awesome privacy protection papers.
 - [ ] `Alexandre d'Aspremont: Smooth Optimization with Approximate Gradient. SIAM Journal on Optimization 19(3): 1171-1183 (2008)`
 
 [:top:](#contents)
+
+## Combinatorial optimization
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| GSLS | Optimizing top-k retrieval: submodularity analysis and search strategies | Chaofeng Sha, Keqiang Wang, Dell Zhang, Xiaoling Wang, Aoying Zhou | FCS<br>WAIM | 2016<br>2014 | [:ledger:](https://link.springer.com/article/10.1007%2Fs11704-015-5222-7)<br>[:ledger:](https://doi.org/10.1007/978-3-319-08010-9_3) | | |
 
 ## Searchable Encryption
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
