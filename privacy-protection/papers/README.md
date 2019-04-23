@@ -166,6 +166,7 @@ A curated list of awesome privacy protection papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | GSLS | Optimizing top-k retrieval: submodularity analysis and search strategies | Chaofeng Sha, Keqiang Wang, Dell Zhang, Xiaoling Wang, Aoying Zhou | FCS<br>WAIM | 2016<br>2014 | [:ledger:](https://link.springer.com/article/10.1007%2Fs11704-015-5222-7)<br>[:ledger:](https://doi.org/10.1007/978-3-319-08010-9_3) | | |
+| SubmEP | Ensemble Pruning: A Submodular Function Maximization Perspective | Chaofeng Sha, Keqiang Wang, Xiaoling Wang, Aoying Zhou | DASFAA | 2014 | [:ledger:](https://link.springer.com/chapter/10.1007%2F978-3-319-05813-9_1) | | |
 
 ## Searchable Encryption
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
