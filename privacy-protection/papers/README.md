@@ -20,7 +20,9 @@ A curated list of awesome privacy protection papers.
 - [Private Recommender Systems](#private-recommender-systems)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Combinatorial optimization](#combinatorial-optimization)
-- [Searchable Encryption](#searchable-encryption)
+- [Cryptography](#cryptography)
+    - [Encrypted Database](#encrypted-database)
+    - [Searchable Encryption](#searchable-encryption)
 
 **Legend**:
 
@@ -168,7 +170,18 @@ A curated list of awesome privacy protection papers.
 | GSLS | Optimizing top-k retrieval: submodularity analysis and search strategies | Chaofeng Sha, Keqiang Wang, Dell Zhang, Xiaoling Wang, Aoying Zhou | FCS<br>WAIM | 2016<br>2014 | [:ledger:](https://link.springer.com/article/10.1007%2Fs11704-015-5222-7)<br>[:ledger:](https://doi.org/10.1007/978-3-319-08010-9_3) | | |
 | SubmEP | Ensemble Pruning: A Submodular Function Maximization Perspective | Chaofeng Sha, Keqiang Wang, Xiaoling Wang, Aoying Zhou | DASFAA | 2014 | [:ledger:](https://link.springer.com/chapter/10.1007%2F978-3-319-05813-9_1) | | |
 
-## Searchable Encryption
+## Cryptography
+
+#### Encrypted Database
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| CryptZip | Sa Wang, Yiwen Shao, Yungang Bao | Practices of backuping homomorphically encrypted databases | FCS | 2019 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-019-8394-8) | | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20190326093134.pdf) |
+
+[:top:](#contents)
+
+#### Searchable Encryption
+
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SPiRiT | Secure Search on Encrypted Data via Multi-Ring Sketch | Adi Akavia, Dan Feldman, Hayim Shaul | CCS | 2018 | [:ledger:](https://dl.acm.org/citation.cfm?doid=3243734.3243810) | [:memo:](notes/2019-1-25-spirit.pdf) | |
