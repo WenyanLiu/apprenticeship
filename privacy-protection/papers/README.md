@@ -144,7 +144,8 @@ A curated list of awesome privacy protection papers.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Towards Federated Learning at Scale: System Design | Keith Bonawitz, Hubert Eichner, Wolfgang Grieskamp, Dzmitry Huba, Alex Ingerman, Vladimir Ivanov, Chloé Kiddon, Jakub Konecný, Stefano Mazzocchi, H. Brendan McMahan, Timon Van Overveldt, David Petrou, Daniel Ramage, Jason Roselander | SysML | 2019 | [:ledger:](https://arxiv.org/abs/1902.01046) | | |
 | Federated CIFG | Federated Learning for Mobile Keyboard Prediction | Andrew Hard, Kanishka Rao, Rajiv Mathews, Françoise Beaufays, Sean Augenstein, Hubert Eichner, Chloé Kiddon, Daniel Ramage | CoRR | 2018 | [:ledger:](https://arxiv.org/abs/1811.03604) | | [:floppy_disk:](https://mp.weixin.qq.com/s/fgV8wHd2lQEngzZGXteXTw)|
-| FedAvg | Communication-Efficient Learning of Deep Networks from Decentralized Data | Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas | AISTATS | 2017 | [:ledger:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | | [:floppy_disk:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a-supp.pdf)
+| FedAvg | Communication-Efficient Learning of Deep Networks from Decentralized Data | Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas | AISTATS | 2017 | [:ledger:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | | [:floppy_disk:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a-supp.pdf) |
+| DPSGD | Deep Learning with Differential Privacy | Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang | CCS | 2016 | [:ledger:](https://dl.acm.org/citation.cfm?doid=2976749.2978318) | | [:floppy_disk:](https://arxiv.org/pdf/1607.00133.pdf)<br>[:keyboard:](https://github.com/tensorflow/privacy) |
 
 [:top:](#contents)
 
