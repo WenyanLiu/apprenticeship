@@ -123,6 +123,7 @@ A curated list of awesome privacy protection papers.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | RPM| Random permutation Maxout transform for cancellable facial template protection | Andrew Beng Jin Teoh, Sejung Cho, Jihyeon Kim | MTA | 2018 | [:ledger:](https://doi.org/10.1007/s11042-018-5956-y) | [:memo:](notes/2019-5-29-rpm.pdf) | |
 | BEMK | 面向人脸图像发布的差分隐私保护 | 张啸剑, 付聪聪, 孟小峰 | JIG | 2018 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2018&filename=ZGTB201809004) | [:memo:](notes/figures/BEMK.png) |  |
+| DPGAN | Differentially Private Generative Adversarial Network | Liyang Xie, Kaixiang Lin, Shu Wang, Fei Wang, Jiayu Zhou | CoRR | 2018 | [:ledger:](https://arxiv.org/abs/1802.06739) | | [:keyboard:](https://github.com/illidanlab/dpgan) |
 
 [:top:](#contents)
 
