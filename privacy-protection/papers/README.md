@@ -89,6 +89,7 @@ A curated list of awesome privacy protection papers.
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PATE-GAN | James Jordon, Jinsung Yoon, Mihaela van der Schaar | PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees | ICLR | 2019 | [:ledger:](https://openreview.net/forum?id=S1zk9iRqF7) | | |
 | Liancheng | Privacy as a Service: Publishing Data and Models | Ashish Dandekar, Debabrota Basu, Thomas Kister, Geong Sen Poh, Jia Xu, Stéphane Bressan | DASFAA | 2019 | [:ledger:](https://link.springer.com/chapter/10.1007%2F978-3-030-18590-9_86) | | |
 | | A Data Publishing System Based on Privacy Preservation | Zhihui Wang, Yun Zhu, Xuchen Zhou | DASFAA | 2019 | [:ledger:](https://link.springer.com/chapter/10.1007%2F978-3-030-18590-9_85) | |
 | | Approximate Query Processing using Deep Generative Models | Saravanan Thirumuruganathan, Shohedul Hasan, Nick Koudas, Gautam Das | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1903.10000) | | |
