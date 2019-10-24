@@ -4,9 +4,11 @@ This part of my life is called "The Pursuit of Doctorate". Here is my blog about
 
 ### Diving In
 
-- [Fairness](./fairness)
-
 - [Privacy protection](./privacy-protection)
+
+- [Federated learning](./federated-learning)
+
+- [Fairness](./fairness)
 
 - [Blockchain](./blockchain)
 
