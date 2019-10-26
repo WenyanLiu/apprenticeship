@@ -12,4 +12,6 @@ This part of my life is called "The Pursuit of Doctorate". Here is my blog about
 
 - [Blockchain](./blockchain)
 
+- [Others](./others)
+
 Join discussion in [issues](https://github.com/WenyanLiu/apprenticeship/issues).
