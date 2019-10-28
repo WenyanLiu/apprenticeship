@@ -17,7 +17,8 @@ A curated list of awesome privacy protection papers.
 - Private Data Analysis
     - [Private Learning](#private-learning)
     - [Frequent Itemset Mining](#frequent-itemset-mining)
-    - [Private Recommender Systems](#private-recommender-systems)
+    - [Recommender Systems](#recommender-systems)
+    - [Survival Analysis](#survival-analysis)
 - [Cryptography](#cryptography)
     - [Encrypted Database](#encrypted-database)
     - [Searchable Encryption](#searchable-encryption)
@@ -148,7 +149,7 @@ A curated list of awesome privacy protection papers.
 
 [:top:](#contents)
 
-#### Private Recommender Systems
+#### Recommender Systems
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -156,6 +157,14 @@ A curated list of awesome privacy protection papers.
 | PrivSR | Personalized Privacy-Preserving Social Recommendation | Xuying Meng, Suhang Wang, Kai Shu, Jundong Li, Bo Chen, Huan Liu, Yujun Zhang | AAAI | 2018 | [:ledger:](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf) | [:memo:](notes/2018-11-21-privsr.md) | [:floppy_disk:](https://raw.githubusercontent.com/mxyenguing/PrivSR/854300602172d2e4d6d66810479f64134c0b55ed/appendix.pdf) |
 | DMF | Privacy Preserving Point-of-Interest Recommendation Using Decentralized Matrix Factorization | Chaochao Chen, Ziqi Liu, Peilin Zhao, Jun Zhou, Xiaolong Li | AAAI | 2018 | [:ledger:](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16123) | [:memo:](https://mp.weixin.qq.com/s/JrUQupsoKqpwfd4bnYfwFA) | |
 | DPMF | Differentially Private Matrix Factorization | Jingyu Hua, Chang Xia, Sheng Zhong | IJCAI | 2015 | [:ledger:](https://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/viewPaper/11228) | [:memo:](notes/2018-11-23-dpmf.md) | |
+
+[:top:](#contents)
+
+#### Survival Analysis
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Differentially Private Survival Function Estimation | Lovedeep Gondara, Ke Wang | CoRR | 2019 | [:ledger:](https://openreview.net/forum?id=ryx_Y6EYwH) | | [:keyboard:](https://bit.ly/2kNHC1J) | 
 
 [:top:](#contents)
 
