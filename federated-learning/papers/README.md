@@ -6,9 +6,9 @@ A curated list of awesome federated learning papers.
 
 - [Survey](#survey)
 - Algorithm
-    - Communication(#communication)
-    - Aggregation(#aggregation)
-    - Application(#application)
+    - [Communication](#communication)
+    - [Aggregation](#aggregation)
+    - [Application](#application)
 - [System](#system)
 
 
