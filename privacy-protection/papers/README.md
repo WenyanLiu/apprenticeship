@@ -15,7 +15,7 @@ A curated list of awesome privacy protection papers.
     - [Graph Data Publishing](#graph-data-publishing)
     - [Image Data Publishing](#image-data-publishing)
 - Private Data Analysis
-    - [Private Deep Learning](#private-deep-learning)
+    - [Private Learning](#private-learning)
     - [Frequent Itemset Mining](#frequent-itemset-mining)
     - [Private Recommender Systems](#private-recommender-systems)
 - [Cryptography](#cryptography)
@@ -129,7 +129,7 @@ A curated list of awesome privacy protection papers.
 
 ## Private Data Analysis
 
-#### Private Deep Learning
+#### Private Learning
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
