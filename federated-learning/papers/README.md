@@ -22,10 +22,10 @@ A curated list of awesome federated learning papers.
 
 ## Survey
 
-| Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Federated Machine Learning: Concept and Applications | Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong | TIST | 2019 | [:ledger:](https://arxiv.org/abs/1902.04885) | [:memo:](notes/figures/SFL.png) | [:floppy_disk:](https://mp.weixin.qq.com/s/6QKyE3jIOwBK_2rcG-Vtiw) |
-| Federated Learning | Florian Hartmann | | 2018 | [:ledger:](http://www.mi.fu-berlin.de/inf/groups/ag-ti/theses/master_finished/hartmann_florian/index.html) | | [:keyboard:](https://github.com/florian/federated-learning-addon)[:keyboard:](https://github.com/mozilla/telemetry-streaming/tree/master/src/main/scala/com/mozilla/telemetry/learning/federated)[:keyboard:](https://github.com/florian/federated-learning) |
+| | Federated Machine Learning: Concept and Applications | Qiang Yang, Yang Liu, Tianjian Chen, Yongxin Tong | TIST | 2019 | [:ledger:](https://arxiv.org/abs/1902.04885) | [:memo:](notes/figures/SFL.png) | [:floppy_disk:](https://mp.weixin.qq.com/s/6QKyE3jIOwBK_2rcG-Vtiw) |
+| | Federated Learning | Florian Hartmann | | 2018 | [:ledger:](http://www.mi.fu-berlin.de/inf/groups/ag-ti/theses/master_finished/hartmann_florian/index.html) | | [:keyboard:](https://github.com/florian/federated-learning-addon)[:keyboard:](https://github.com/mozilla/telemetry-streaming/tree/master/src/main/scala/com/mozilla/telemetry/learning/federated)[:keyboard:](https://github.com/florian/federated-learning) |
 
 [:top:](#contents)
 
