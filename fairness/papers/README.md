@@ -8,6 +8,11 @@ A curated list of awesome fairness papers.
 - [Statistical Fairness](#statistical-fairness)
     - [Demographic Parity](#demographic-parity)
     - [Equalized Odds](#equalized-odds)
+- [Resource Allocation](#resource-allocation)
+    - [Proportional](#proportional)
+- [Others](#others)
+    - [Stability](#stability)
+
 
 **Legend**:
 
@@ -45,10 +50,22 @@ A curated list of awesome fairness papers.
 
 [:top:](#contents)
 
-## Proportional
+## Resource Allocation
+
+#### Proportional
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Greedy Capture<br>Local Capture | Proportionally Fair Clustering | Xingyu Chen, Brandon Fain, Liang Lyu, Kamesh Munagala | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/chen19d.html) | | [:memo:](https://arxiv.org/abs/1905.03674)[:keyboard:](https://github.com/DukeXY/Proportionally-Fair-Clustering)[:camera:](https://slideslive.com/38917643/fairness) |
+
+[:top:](#contents)
+
+## Others
+
+#### Stability
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Stable-Fair | Stable and Fair Classification | Lingxiao Huang, Nisheeth K. Vishnoi | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/huang19e.html) | | [:memo:](http://proceedings.mlr.press/v97/huang19e.html) |
 
 [:top:](#contents)
