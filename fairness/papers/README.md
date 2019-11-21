@@ -8,6 +8,8 @@ A curated list of awesome fairness papers.
 - [Statistical Fairness](#statistical-fairness)
     - [Demographic Parity](#demographic-parity)
     - [Equalized Odds](#equalized-odds)
+- [Causal Fairness](#causal-fairness)
+    - [Counterfactual Fairness](#counterfactual-fairness)
 - [Resource Allocation](#resource-allocation)
     - [Proportional](#proportional)
 - [Others](#others)
@@ -47,6 +49,16 @@ A curated list of awesome fairness papers.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | AVD Penalizers<br>SD Penalizers | Penalizing Unfairness in Binary Classification | Yahav Bechavod, Katrina Ligett | CoRR | 2017 | [:ledger:](https://arxiv.org/abs/1707.00044) | | [:keyboard:](https://github.com/jjgold012/lab-project-fairness) |
 | Equalized Odds | Equality of Opportunity in Supervised Learning | Moritz Hardt, Eric Price, Nati Srebro | NIPS | 2016 | [:ledger:](http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning) | | [:ledger:](https://arxiv.org/abs/1610.02413)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1654.html) |
+
+[:top:](#contents)
+
+## Causal Fairness
+
+#### Counterfactual Fairness
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Fair K<br>Fair Add | Counterfactual Fairness | Matt J. Kusner, Joshua R. Loftus, Chris Russell, Ricardo Silva | NIPS | 2017 | [:ledger:](http://papers.nips.cc/paper/6995-counterfactual-fairness) | [:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/2152.html) | [:ledger:](http://papers.nips.cc/paper/6995-counterfactual-fairness-supplemental.zip)[:keyboard:](https://github.com/mkusner/counterfactual-fairness)[:camera:](http://mkusner.github.io/posters/CF_Poster.pdf)[:camera:](https://www.facebook.com/nipsfoundation/videos/1554741734617060/) |
 
 [:top:](#contents)
 
