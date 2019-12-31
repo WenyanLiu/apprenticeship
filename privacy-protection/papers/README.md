@@ -134,6 +134,7 @@ A curated list of awesome privacy protection papers.
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| DP-FedAvg | Learning Differentially Private Recurrent Language Models | H. Brendan McMahan, Daniel Ramage, Kunal Talwar, Li Zhang | ICLR | 2018 | [:ledger:](https://openreview.net/pdf?id=BJ0hF1Z0b) | [:memo:](https://openreview.net/forum?id=BJ0hF1Z0b&noteId=BJ0hF1Z0b) | |
 | | Differentially Private Federated Learning: A Client Level Perspective | Robin C. Geyer, Tassilo Klein, Moin Nabi | CoRR | 2017 | [:ledger:](https://arxiv.org/abs/1712.07557) | | [:keyboard:](https://github.com/SAP/machine-learning-diff-private-federated-learning)<br>[:floppy_disk:](https://openreview.net/forum?id=SkVRTj0cYQ) |
 | DPSGD | Deep Learning with Differential Privacy | Martín Abadi, Andy Chu, Ian J. Goodfellow, H. Brendan McMahan, Ilya Mironov, Kunal Talwar, Li Zhang | CCS | 2016 | [:ledger:](https://dl.acm.org/citation.cfm?doid=2976749.2978318) | | [:floppy_disk:](https://arxiv.org/pdf/1607.00133.pdf)<br>[:keyboard:](https://github.com/tensorflow/privacy) |
 
