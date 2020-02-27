@@ -26,3 +26,6 @@ A curated list of awesome fairness courses.
 | | Instructors | Institution | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Counterfactual reasoning in algorithmic fairness | Ricardo Silva | UCL<br>Alan Turing Institute | FairWare @ ICSE 2018 | | | [:camera:](http://fairware.cs.umass.edu/slides/silva.pdf) |
+| Fairness in Machine Learning and Its Causal Aspects | Ricardo Silva | UCL<br>Alan Turing Institute | 2017 | | | [:camera:](http://www.homepages.ucl.ac.uk/~ucgtrbd/talks/counterfactual_fairness_talk.pdf) |
+
+[:top:](#contents)
