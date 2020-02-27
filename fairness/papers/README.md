@@ -74,6 +74,7 @@ A curated list of awesome fairness papers.
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | FEN | Learning Fairness in Multi-Agent Systems | Jiechuan Jiang, Zongqing Lu | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems.pdf) | | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems-supplemental.zip)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-metareview.html)[:keyboard:](https://github.com/PKU-AI-Edge/FEN) |
+| FULTR | Fair Learning-to-Rank from Implicit Feedback | Himank Yadav, Zhengxiao Du, Thorsten Joachims | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1911.08054) | | |
 
 [:top:](#contents)
 
