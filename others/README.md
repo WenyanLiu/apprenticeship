@@ -4,6 +4,7 @@ A curated list of awesome papers.
 
 ## Contents
 
+- [Trustworthy Artificial Intelligence](#trustworthy-artificial-intelligence)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Combinatorial optimization](#combinatorial-optimization)
 
@@ -15,6 +16,13 @@ A curated list of awesome papers.
 | PDF<br>Files | Notes | Code | Slides | Other<br>Supplementaries |
 
 ---
+
+## Trustworthy Artificial Intelligence
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI | 	Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1910.10045) | [:memo:](https://mp.weixin.qq.com/s/kJW-EM20C5JEQIKNtBYVtA) | |
+
+[:top:](#contents)
 
 ## Large-Scale Optimization
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
