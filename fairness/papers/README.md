@@ -11,8 +11,6 @@ A curated list of awesome fairness papers.
 - [Causal Fairness](#causal-fairness)
     - [Counterfactual Fairness](#counterfactual-fairness)
 - [Resource Allocation](#resource-allocation)
-    - [Proportional](#proportional)
-    - [Group Fairness](#group-fairness)
 - [Others](#others)
     - [Stability](#stability)
 
@@ -77,28 +75,14 @@ A curated list of awesome fairness papers.
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| FEN | Learning Fairness in Multi-Agent Systems | Jiechuan Jiang, Zongqing Lu | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems.pdf) | | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems-supplemental.zip)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-metareview.html)[:keyboard:](https://github.com/PKU-AI-Edge/FEN) |
-| FULTR | Fair Learning-to-Rank from Implicit Feedback | Himank Yadav, Zhengxiao Du, Thorsten Joachims | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1911.08054) | | |
-
-[:top:](#contents)
-
-#### Proportional
-
-| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Greedy Capture<br>Local Capture | Proportionally Fair Clustering | Xingyu Chen, Brandon Fain, Liang Lyu, Kamesh Munagala | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/chen19d.html) | | [:memo:](https://arxiv.org/abs/1905.03674)[:keyboard:](https://github.com/DukeXY/Proportionally-Fair-Clustering)[:camera:](https://slideslive.com/38917643/fairness) |
-
-[:top:](#contents)
-
-#### Group Fairness
-
-| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Fair decision making using privacy-protected data | David Pujol, Ryan McKenna, Satya Kuppam, Michael Hay, Ashwin Machanavajjhala, Gerome Miklau | FAT* | 2020 | [:ledger:](file:///Users/Rockie/Desktop/tmp/3351095.3372872.pdf) | | [:camera:](https://www.youtube.com/watch?v=ZsG7OA0sG6I&list=PLXA0IWa3BpHkaM6uJauBdtkR3Hp4rePfp&index=53)[:camera:](https://slideslive.com/38923327/invited-talk-fair-decision-making-using-privacyprotected-data) |
-| | Differential Privacy Has Disparate Impact on Model Accuracy | Eugene Bagdasaryan, Omid Poursaeed, Vitaly Shmatikov | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9681-differential-privacy-has-disparate-impact-on-model-accuracy.pdf) | [:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969-metareview.html)[:camera:](https://github.com/ebagdasa/differential-privacy-vs-fairness/blob/master/poster/neurips_diffprivacy_fairness.pdf)[:keyboard:](https://github.com/ebagdasa/differential-privacy-vs-fairness) |
+| FEN | Learning Fairness in Multi-Agent Systems | Jiechuan Jiang, Zongqing Lu | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems.pdf) | | [:ledger:](http://papers.nips.cc/paper/9537-learning-fairness-in-multi-agent-systems-supplemental.zip)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/7755-metareview.html)[:keyboard:](https://github.com/PKU-AI-Edge/FEN) |
+| | Differential Privacy Has Disparate Impact on Model Accuracy | Eugene Bagdasaryan, Omid Poursaeed, Vitaly Shmatikov | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9681-differential-privacy-has-disparate-impact-on-model-accuracy.pdf) | | [:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/8969-metareview.html)[:camera:](https://github.com/ebagdasa/differential-privacy-vs-fairness/blob/master/poster/neurips_diffprivacy_fairness.pdf)[:keyboard:](https://github.com/ebagdasa/differential-privacy-vs-fairness) |
 | DC<br>Maximin | Group-Fairness in Influence Maximization | Alan Tsang, Bryan Wilder, Eric Rice, Milind Tambe, Yair Zick | IJCAI | 2019 | [:ledger:](https://www.ijcai.org/Proceedings/2019/831) | | [:memo:](https://arxiv.org/abs/1903.00967)[:keyboard:](https://github.com/bwilder0/fair_influmax_code_release) |
 | TREE01 | Fairness without Harm: Decoupled Classifiers with Preference Guarantees | Berk Ustun, Yang Liu, David C. Parkes | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/ustun19a/ustun19a.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/ustun19a/ustun19a-supp.pdf)[:keyboard:](https://github.com/ustunb/dcptree)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-11-00)-13-11-35-4855-fairness_withou.pdf) |
+| Greedy Capture<br>Local Capture | Proportionally Fair Clustering | Xingyu Chen, Brandon Fain, Liang Lyu, Kamesh Munagala | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/chen19d.html) | | [:memo:](https://arxiv.org/abs/1905.03674)[:keyboard:](https://github.com/DukeXY/Proportionally-Fair-Clustering)[:camera:](https://slideslive.com/38917643/fairness) |
 | GF1A/B | Group Fairness for the Allocation of Indivisible Goods | Vincent Conitzer, Rupert Freeman, Nisarg Shah, Jennifer Wortman Vaughan | AAAI | 2019 | [:ledger:](https://www.aaai.org/ojs/index.php/AAAI/article/view/4010) | | [:memo:](https://users.cs.duke.edu/~conitzer/group-fairness-full.pdf) |
+| FULTR | Fair Learning-to-Rank from Implicit Feedback | Himank Yadav, Zhengxiao Du, Thorsten Joachims | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1911.08054) | | |
 
 [:top:](#contents)
 
