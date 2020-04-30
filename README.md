@@ -242,10 +242,10 @@ Papers:
 A curated list of awesome federated learning research materials.
 
 Courses:
-- [Tutorial](#tutorial)
+- [Tutorial](#tutorial-1)
 
 Papers:
-- [Survey](#survey)
+- [Survey](#survey-1)
 - Algorithm
     - [Communication](#communication)
     - [Aggregation](#aggregation)
@@ -312,15 +312,15 @@ Papers:
 A curated list of awesome fairness research materials.
 
 Courses:
-- [Tutorial](#tutorial)
+- [Tutorial](#tutorial-2)
 - [Causal Fairness](#causal-fairness)
 
 Papers:
-- [Survey](#survey)
-- [Statistical Fairness](#statistical-fairness)
+- [Survey](#survey-2)
+- Statistical Fairness
     - [Demographic Parity](#demographic-parity)
     - [Equalized Odds](#equalized-odds)
-- [Causal Fairness](#causal-fairness)
+- Causal Fairness
     - [Counterfactual Fairness](#counterfactual-fairness)
 - [Resource Allocation](#resource-allocation)
 - [Others](#others)
@@ -421,7 +421,7 @@ Papers:
 
 A curated list of awesome blockchain research materials.
 
-- [Survey](#survey)
+- [Survey](#survey-3)
 - [Network Layer](#network-layer)
 
 [:top:](#diving-in)
