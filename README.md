@@ -30,8 +30,10 @@ This part of my life is called "The Pursuit of Doctorate". Here is my blog about
 A curated list of awesome privacy protection research materials.
 
 - [Books](#books)
+
 Courses:
 - [Tutorial](#tutorial)
+
 Papers:
 - [Policy Brief](#policy-brief)
 - [Survey](#survey)
