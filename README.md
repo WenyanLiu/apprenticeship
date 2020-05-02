@@ -447,16 +447,17 @@ A curated list of awesome blockchain research materials.
 
 A curated list of awesome research materials.
 
-- [Trustworthy Artificial Intelligence](#trustworthy-artificial-intelligence)
+- [Artificial Intelligence](#artificial-intelligence)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Combinatorial optimization](#combinatorial-optimization)
 
 [:top:](#diving-in)
 
-#### Trustworthy Artificial Intelligence
+#### Artificial Intelligence
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| | Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI | 	Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1910.10045) | [:memo:](https://mp.weixin.qq.com/s/kJW-EM20C5JEQIKNtBYVtA) | |
+| | AI Governance in 2019 a Year in Review | Qian Shi, Hui Li, Brian Tse, John Hopcroft, Stuart Russell, Caroline Jeanmaire, Qiang Yang, Pascale Fung, Roman Yampolskiy, Allan Dafoe, Markus Anderljung, Gillian K. Hadfield, Jun Su, Thilo Hagendorff, Petra Ahrweiler, Robin Williams, Colin Allen, Poon King Wang, Ferran Jarabo Carbonell, Xiaohong Wang, Qingfeng Yang, Qi Yin, Don Wright, Miles Brundage, Jack Clark, Irene Solaiman, Gretchen Krueger, Seán Ó hÉigeartaigh, Helen Toner, Millie Liu, Steve Hoffman, Irakli Beridze, Wendell Wallach, Cyrus Hodes, Nicolas Miailhe, Jessica Cussins Newman, Dingding Chen, Eva Kaili, Francesca Rossi, Charlotte Stix, Angela Daly, Danit Gal, Arisa Ema, Goh Yihan, Nydia Remolina, Urvashi Aneja, Ying Fu, Zhiyun Zhao, Xiuquan Li, Weiwen Duan, Qun Luan, Rui Guo, Yingchun Wang |Shanghai Institute for Science of Science | 2020 | [:ledger:](https://n1.sinaimg.cn/tech/f34884a9/20200501/GlobalAIGovernancein2019.pdf) | [:memo:](https://mp.weixin.qq.com/s/e3iXM17g3ug1JiwCZd-9cA) | |
+| | Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI | Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1910.10045) | [:memo:](https://mp.weixin.qq.com/s/kJW-EM20C5JEQIKNtBYVtA) | |
 
 [:top:](#other-awesome-research-materials)
 
