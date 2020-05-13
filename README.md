@@ -284,8 +284,8 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| AFL | Agnostic Federated Learning | Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) | | [:floppy_disk:](http://proceedings.mlr.press/v97/mohri19a/mohri19a-supp.pdf)<br>[:camera:](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=5038) |
 | q-FedAvg | Fair Resource Allocation in Federated Learning | Tian Li, Maziar Sanjabi, Virginia Smith | ICLR | 2020 | [:ledger:](https://openreview.net/forum?id=ByexElSYDr) | | |
+| AFL | Agnostic Federated Learning | Mehryar Mohri, Gary Sivek, Ananda Theertha Suresh | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/mohri19a/mohri19a.pdf) | | [:floppy_disk:](http://proceedings.mlr.press/v97/mohri19a/mohri19a-supp.pdf)<br>[:camera:](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=5038) |
 | FedAvg | Communication-Efficient Learning of Deep Networks from Decentralized Data | Brendan McMahan, Eider Moore, Daniel Ramage, Seth Hampson, Blaise Agüera y Arcas | AISTATS | 2017 | [:ledger:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf) | | [:floppy_disk:](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a-supp.pdf) |
 
 [:top:](#awesome-federated-learning-research-materials)
