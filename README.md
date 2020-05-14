@@ -317,11 +317,8 @@ Courses:
 
 Papers:
 - [Survey](#survey-2)
-- Statistical Fairness
-    - [Demographic Parity](#demographic-parity)
-    - [Equalized Odds](#equalized-odds)
-- Causal Fairness
-    - [Counterfactual Fairness](#counterfactual-fairness)
+- [Statistical Fairness](#statistical-fairness)
+- [Causal Fairness](#causal-fairness-1)
 - [Resource Allocation](#resource-allocation)
 - [Others](#others)
     - [Stability](#stability)
@@ -355,34 +352,23 @@ Papers:
 
 #### Statistical Fairness
 
-##### Demographic Parity
-
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | CFair | Conditional Learning of Fair Representations | Han Zhao, Amanda Coston, Tameem Adel, Geoffrey J. Gordon | ICLR | 2020 | [:ledger:](https://openreview.net/pdf?id=Hkekl0NFPr) | [:memo:](https://mp.weixin.qq.com/s/ig6jSvcW4_91FehlfN-O7A) | [:memo:](https://openreview.net/forum?id=Hkekl0NFPr) | 
 | AdvDebias | Inherent Tradeoffs in Learning Fair Representations | Han Zhao, Geoffrey J. Gordon | NeurIPS | 2019 | [:ledger:](http://papers.nips.cc/paper/9698-inherent-tradeoffs-in-learning-fair-representations.pdf) | [:memo:](https://mp.weixin.qq.com/s/d1PJNo6ObkUtUfAPr3gSeg) | [:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/9114.html)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/9114-AuthorFeedback.pdf)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips32/reviews/9114-metareview.html)[:camera:](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2019/fairness_poster.pdf)[:camera:](https://www.cs.cmu.edu/~hzhao1/papers/NIPS2019/fairness_slides.pdf)[:keyboard:](http://papers.nips.cc/paper/9698-inherent-tradeoffs-in-learning-fair-representations-supplemental.zip) |
 | Random Repair | Obtaining Fairness using Optimal Transport Theory | Paula Gordaliza, Eustasio del Barrio, Fabrice Gamboa, Jean-Michel Loubes | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/gordaliza19a/gordaliza19a.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/gordaliza19a/gordaliza19a-supp.pdf)[:keyboard:](https://github.com/JMLToulouse/FairLearning)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-11-00)-13-12-00-4857-obtaining_fairn.pdf) |
 | FFVAE | Flexibly Fair Representation Learning by Disentanglement | Elliot Creager, David Madras, Jörn-Henrik Jacobsen, Marissa A. Weis, Kevin Swersky, Toniann Pitassi, Richard S. Zemel | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/creager19a/creager19a.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/creager19a/creager19a-supp.pdf)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-11-00)-13-11-25-4853-flexibly_fair_r.pdf) |
+| DP-postprocessing<br>DP-oracle-learner | Differentially Private Fair Learning | Matthew Jagielski, Michael J. Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/jagielski19a/jagielski19a.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/jagielski19a/jagielski19a-supp.pdf)[:camera:](https://slideslive.com/38916902/fairness?t=2645) |
 | Fair Regression | Fair Regression: Quantitative Definitions and Reduction-Based Algorithms | Alekh Agarwal, Miroslav Dudík, Zhiwei Steven Wu | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/agarwal19d/agarwal19d.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/agarwal19d/agarwal19d-supp.pdf)[:keyboard:](https://github.com/steven7woo/fair_regression)[:keyboard:](https://github.com/fairlearn/fairlearn)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-11-00)-13-11-30-4854-fair_regression.pdf) |
+| Pairwise Fairness | Fairness in Recommendation Ranking through Pairwise Comparisons | Alex Beutel, Jilin Chen, Tulsee Doshi, Hai Qian, Li Wei, Yi Wu, Lukasz Heldt, Zhe Zhao, Lichan Hong, Ed H. Chi, Cristos Goodrow | KDD | 2019 | [:ledger:](https://dl.acm.org/citation.cfm?doid=3292500.3330745) | [:memo:](https://mp.weixin.qq.com/s/QJeOBXG6sIGb6ML6v8T8CQ) | [:camera:](https://www.kdd.org/kdd2019/accepted-papers/view/fairness-in-recommendation-ranking-through-pairwise-comparisons) |
 | Strong Demographic Parity | Wasserstein Fair Classification | Ray Jiang, Aldo Pacchiano, Tom Stepleton, Heinrich Jiang, Silvia Chiappa | UAI | 2019 | [:ledger:](http://auai.org/uai2019/proceedings/papers/315.pdf) | | [:ledger:](http://auai.org/uai2019/proceedings/supplements/315_supplement.pdf)[:keyboard:](https://github.com/deepmind/wasserstein_fairness) |
 | | Exploring Human Gender Stereotypes with Word Association Test | Yupei Du, Yuanbin Wu, Man Lan | EMNLP | 2019 | [:ledger:](https://yupei-du.github.io/papers/graph-bias.pdf) | | [:keyboard:](https://github.com/Yupei-Du/bias-in-wat) |
-
-[:top:](#awesome-fairness-research-materials)
-
-##### Equalized Odds
-
-| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| Pairwise Fairness | Fairness in Recommendation Ranking through Pairwise Comparisons | Alex Beutel, Jilin Chen, Tulsee Doshi, Hai Qian, Li Wei, Yi Wu, Lukasz Heldt, Zhe Zhao, Lichan Hong, Ed H. Chi, Cristos Goodrow | KDD | 2019 | [:ledger:](https://dl.acm.org/citation.cfm?doid=3292500.3330745) | [:memo:](https://mp.weixin.qq.com/s/QJeOBXG6sIGb6ML6v8T8CQ) | [:camera:](https://www.kdd.org/kdd2019/accepted-papers/view/fairness-in-recommendation-ranking-through-pairwise-comparisons) |
-| DP-postprocessing<br>DP-oracle-learner | Differentially Private Fair Learning | Matthew Jagielski, Michael J. Kearns, Jieming Mao, Alina Oprea, Aaron Roth, Saeed Sharifi-Malvajerdi, Jonathan Ullman | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/jagielski19a/jagielski19a.pdf) | | [:ledger:](http://proceedings.mlr.press/v97/jagielski19a/jagielski19a-supp.pdf)[:camera:](https://slideslive.com/38916902/fairness?t=2645) |
 | AVD Penalizers<br>SD Penalizers | Penalizing Unfairness in Binary Classification | Yahav Bechavod, Katrina Ligett | CoRR | 2017 | [:ledger:](https://arxiv.org/abs/1707.00044) | | [:keyboard:](https://github.com/jjgold012/lab-project-fairness) |
 | Equalized Odds | Equality of Opportunity in Supervised Learning | Moritz Hardt, Eric Price, Nati Srebro | NIPS | 2016 | [:ledger:](http://papers.nips.cc/paper/6374-equality-of-opportunity-in-supervised-learning) | | [:ledger:](https://arxiv.org/abs/1610.02413)[:memo:](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips29/reviews/1654.html) |
 
 [:top:](#awesome-fairness-research-materials)
 
 #### Causal Fairness
-
-##### Counterfactual Fairness
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
