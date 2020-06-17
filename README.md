@@ -455,6 +455,7 @@ A curated list of awesome research materials.
 #### Large-Scale Optimization
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| BDA | A Generic First-Order Algorithmic Framework for Bi-Level Programming Beyond Lower-Level Singleton | Risheng Liu, Pan Mu, Xiaoming Yuan, Shangzhi Zeng, Jin Zhang | ICML | 2020 | [:ledger:](https://arxiv.org/abs/2006.04045) | | |
 | AGD+ | On Acceleration with Noise-Corrupted Gradients | Michael Cohen, Jelena Diakonikolas, Lorenzo Orecchia | ICML | 2018 | [:ledger:](http://proceedings.mlr.press/v80/cohen18a/cohen18a.pdf) |  | [:floppy_disk:](http://proceedings.mlr.press/v80/cohen18a/cohen18a-supp.pdf) |
 
 - [ ] `Olivier Devolder, François Glineur, Yurii Nesterov: First-order methods of smooth convex optimization with inexact oracle. Math. Program. 146(1-2): 37-75 (2014)`
