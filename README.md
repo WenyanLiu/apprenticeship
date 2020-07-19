@@ -4,8 +4,7 @@ This part of my life is called "The Pursuit of Doctorate". Here is my blog about
 
 ## Diving In
 
-- [Privacy protection](#awesome-privacy-protection-research-materials
-)
+- [Privacy protection](#awesome-privacy-protection-research-materials)
 
 - [Federated learning](#awesome-federated-learning-research-materials)
 
@@ -182,6 +181,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Differentially Private Meta-Learning | 	Jeffrey Li, Mikhail Khodak, Sebastian Caldas, Ameet Talwalkar | ICLR | 2020 | [:ledger:](https://openreview.net/pdf?id=rJgqMRVYvr) | [:memo:](https://openreview.net/forum?id=rJgqMRVYvr) | |
+| | Bounding User Contributions: A Bias-Variance Trade-off in Differential Privacy | Kareem Amin, Alex Kulesza, Andres Muñoz Medina, Sergei Vassilvitskii | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/amin19a/amin19a.pdf) | | [:memo:](http://proceedings.mlr.press/v97/amin19a/amin19a-supp.pdf)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-09-00)-13-09-25-5180-bounding_user_c.pdf)[:camera:](https://slideslive.com/38917642/privacy-and-fairness) |
 | AdaClip | AdaCliP: Adaptive Clipping for Private SGD | Venkatadheeraj Pichapati, Ananda Theertha Suresh, Felix X. Yu, Sashank J. Reddi, Sanjiv Kumar | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1908.07643) | | |
 | | Differentially Private Learning with Adaptive Clipping | Om Thakkar, Galen Andrew, H. Brendan McMahan | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1905.03871) | | |
 | DP-FedAvg | Learning Differentially Private Recurrent Language Models | H. Brendan McMahan, Daniel Ramage, Kunal Talwar, Li Zhang | ICLR | 2018 | [:ledger:](https://openreview.net/pdf?id=BJ0hF1Z0b) | [:memo:](https://openreview.net/forum?id=BJ0hF1Z0b&noteId=BJ0hF1Z0b) | |
