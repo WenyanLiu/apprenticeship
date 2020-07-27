@@ -180,6 +180,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Robust anomaly detection and backdoor attack detection via differential privacy | Min Du, Ruoxi Jia, Dawn Song | ICLR | 2020| [:ledger:](https://openreview.net/pdf?id=SJx0q1rtvS) | | [:memo:](https://openreview.net/forum?id=SJx0q1rtvS)[:keyboard:](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0) |
 | | Differentially Private Meta-Learning | 	Jeffrey Li, Mikhail Khodak, Sebastian Caldas, Ameet Talwalkar | ICLR | 2020 | [:ledger:](https://openreview.net/pdf?id=rJgqMRVYvr) | [:memo:](https://openreview.net/forum?id=rJgqMRVYvr) | |
 | | Understanding Gradient Clipping in Private SGD: A Geometric Perspective | Xiangyi Chen, Zhiwei Steven Wu, Mingyi Hong | CoRR | 2020 | [:ledger:](https://arxiv.org/pdf/2006.15429.pdf) | | |
 | | Bounding User Contributions: A Bias-Variance Trade-off in Differential Privacy | Kareem Amin, Alex Kulesza, Andres Muñoz Medina, Sergei Vassilvitskii | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/amin19a/amin19a.pdf) | | [:memo:](http://proceedings.mlr.press/v97/amin19a/amin19a-supp.pdf)[:camera:](https://icml.cc/media/Slides/icml/2019/seasideball(13-09-00)-13-09-25-5180-bounding_user_c.pdf)[:camera:](https://slideslive.com/38917642/privacy-and-fairness) |
