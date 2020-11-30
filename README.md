@@ -355,6 +355,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Bridging Machine Learning and Mechanism Design towards Algorithmic Fairness | Jessie Finocchiaro, Roland Maio, Faidra Monachou, Gourab K. Patro, Manish Raghavan, Ana-Andreea Stoica, Stratis Tsirtsis | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2010.05434) | | |
 | | A Survey on Bias and Fairness in Machine Learning | Ninareh Mehrabi, Fred Morstatter, Nripsuta Saxena, Kristina Lerman, Aram Galstyan | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1908.09635) | | |
 | | The Frontiers of Fairness in Machine Learning | Alexandra Chouldechova, Aaron Roth | CoRR | 2018 | [:ledger:](https://arxiv.org/pdf/1810.08810.pdf) | | |
 
