@@ -47,6 +47,7 @@ Papers:
 - Private Data Analysis
     - [Private Learning](#private-learning)
     - [Frequent Itemset Mining](#frequent-itemset-mining)
+    - [Graph Data Analysis](#graph-data-analysis)
     - [Recommender Systems](#recommender-systems)
     - [Survival Analysis](#survival-analysis)
 - [Cryptography](#cryptography)
@@ -203,6 +204,14 @@ Papers:
 | Diff-FPM | Mining frequent graph patterns with differential privacy | Entong Shen, Ting Yu | KDD | 2013 | [:ledger:](https://dl.acm.org/citation.cfm?doid=2487575.2487601) | | [:camera:](https://www.dropbox.com/s/mwl88v6txc89ah9/KDD2013-slides.pdf) |
 
 - [ ] `| PrivBasis | PrivBasis: Frequent Itemset Mining with Differential Privacy | Ninghui Li, Wahbeh H. Qardaji, Dong Su, Jianneng Cao | PVLDB | 2012 | [:ledger:](https://dl.acm.org/citation.cfm?id=2350251) | | [:keyboard:](https://github.com/DongSuIBM/PrivBasis) |`
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+##### Graph Data Analysis
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| LPGNN | Locally Private Graph Neural Networks | Sina Sajadmanesh, Daniel Gatica-Perez | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2006.05535) | | [:keyboard:](https://github.com/sisaman/lpgnn) |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
