@@ -101,6 +101,8 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](https://dl.acm.org/citation.cfm?id=3055331) | | |
+| | Privacy-preserving statistical estimation with optimal convergence rates | Adam D. Smith | STOC | 2011 | [:ledger:](https://dl.acm.org/doi/10.1145/1993636.1993743) | | |
+| | Smooth sensitivity and sampling in private data analysis | Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith | STOC | 2007 | [:ledger:](https://dl.acm.org/doi/10.1145/1250790.1250803) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
