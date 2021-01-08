@@ -50,6 +50,7 @@ Papers:
     - [Graph Data Analysis](#graph-data-analysis)
     - [Recommender Systems](#recommender-systems)
     - [Survival Analysis](#survival-analysis)
+    - [Natural Language Processing](#natural-language-processing)
 - [Cryptography](#cryptography)
     - [Encrypted Database](#encrypted-database)
     - [Searchable Encryption](#searchable-encryption)
@@ -236,6 +237,14 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Differentially Private Survival Function Estimation | Lovedeep Gondara, Ke Wang | CoRR | 2019 | [:ledger:](https://openreview.net/forum?id=ryx_Y6EYwH) | | [:keyboard:](https://bit.ly/2kNHC1J) | 
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+##### Natural Language Processing
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| DPNR | Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness | Lingjuan Lyu, Xuanli He, Yitong Li | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.213/) | | [:keyboard:](https://github.com/xlhex/dpnlp) |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
