@@ -74,6 +74,7 @@ Papers:
 #### Tutorial
 | | Instructors | Institution | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| The U.S. Census Bureau Adopts Differential Privacy | John M. Abowd | U.S. Census Bureau | KDD 2018 | [:ledger:](https://dl.acm.org/doi/10.1145/3219819.3226070) | | [:camera:](https://dl.acm.org/doi/10.1145/3219819.3226070) |
 
 - [ ] `| The Algorithmic Foundations of Data Privacy | Aaron Roth | Penn | Fall 2011 | [:ledger:](http://www.cis.upenn.edu/~aaroth/courses/privacyF11.html) |  | [:floppy_disk:](https://www.nowpublishers.com/article/Details/TCS-042) |`
 
