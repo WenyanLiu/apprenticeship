@@ -103,6 +103,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](https://dl.acm.org/citation.cfm?id=3055331) | | |
+| | Nearly-Optimal Private LASSO | Kunal Talwar, Abhradeep Thakurta, Li Zhang | NIPS | 2015 | [:ledger:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Paper.pdf)  | [:memo:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Reviews.html) | [:ledger:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Supplemental.zip) |
 | | Privacy-preserving statistical estimation with optimal convergence rates | Adam D. Smith | STOC | 2011 | [:ledger:](https://dl.acm.org/doi/10.1145/1993636.1993743) | | |
 | | Smooth sensitivity and sampling in private data analysis | Kobbi Nissim, Sofya Raskhodnikova, Adam D. Smith | STOC | 2007 | [:ledger:](https://dl.acm.org/doi/10.1145/1250790.1250803) | | |
 
