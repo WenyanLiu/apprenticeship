@@ -248,6 +248,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | DPNR | Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness | Lingjuan Lyu, Xuanli He, Yitong Li | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.213/) | | [:keyboard:](https://github.com/xlhex/dpnlp) |
+| MG-PriFair | Multimodal Review Generation with Privacy and Fairness Awareness | Xuan-Son Vu, Thanh-Son Nguyen, Duc-Trong Le, Lili Jiang | COLING | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.coling-main.37/) | | [:camera:](https://people.cs.umu.se/sonvx/files/mgprifair_coling2020_poster.pdf) |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
