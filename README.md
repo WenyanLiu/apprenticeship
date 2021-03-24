@@ -247,6 +247,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Information Leakage in Embedding Models | Congzheng Song, Ananth Raghunathan | CCS | 2020 | [:ledger:](https://dl.acm.org/doi/10.1145/3372297.3417270) | | [:camera:](https://dl.acm.org/doi/10.1145/3372297.3417270)[:keyboard:](https://github.com/google/embedding-tests) |
 | DPNR | Differentially Private Representation for NLP: Formal Guarantee and An Empirical Study on Privacy and Fairness | Lingjuan Lyu, Xuanli He, Yitong Li | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.213/) | | [:keyboard:](https://github.com/xlhex/dpnlp) |
 | TextHide | TextHide: Tackling Data Privacy for Language Understanding Tasks | Yangsibo Huang, Zhao Song, Danqi Chen, Kai Li, Sanjeev Arora | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.123/) | | [:keyboard:](https://github.com/Hazelsuko07/TextHide) |
 | PolicyQA | PolicyQA: A Reading Comprehension Dataset for Privacy Policies | Wasi Uddin Ahmad, Jianfeng Chi, Yuan Tian, Kai-Wei Chang | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.66/) | | [:keyboard:](https://github.com/wasiahmad/PolicyQA) |
