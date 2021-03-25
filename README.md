@@ -253,6 +253,7 @@ Papers:
 | PolicyQA | PolicyQA: A Reading Comprehension Dataset for Privacy Policies | Wasi Uddin Ahmad, Jianfeng Chi, Yuan Tian, Kai-Wei Chang | EMNLP | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.findings-emnlp.66/) | | [:keyboard:](https://github.com/wasiahmad/PolicyQA) |
 | MG-PriFair | Multimodal Review Generation with Privacy and Fairness Awareness | Xuan-Son Vu, Thanh-Son Nguyen, Duc-Trong Le, Lili Jiang | COLING | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.coling-main.37/) | | [:camera:](https://people.cs.umu.se/sonvx/files/mgprifair_coling2020_poster.pdf) |
 | | Towards Privacy by Design in Learner Corpora Research: A Case of On-the-fly Pseudonymization of Swedish Learner Essays | Elena Volodina, Yousuf Ali Mohammed, Sandra Derbring, Arild Matsson, Beáta Megyesi | COLING | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.coling-main.32/) | | |
+| OME | Towards Differentially Private Text Representations | Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao | SIGIR | 2020 | [:ledger:](https://dl.acm.org/doi/10.1145/3397271.3401260) | [:memo:](https://medium.com/swlh/how-to-preserve-privacy-of-text-representations-in-nlp-3ed244148d75) | [:keyboard:](https://github.com/lingjuanlv/Differentially-Private-Text-Representations) |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
