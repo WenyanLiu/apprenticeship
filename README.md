@@ -167,7 +167,6 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
 | GSN-DP | Geo-social network publication based on differential privacy | Xiaochun Wang, Yidong Li | FCS | 2018 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-018-8075-z) |  [:memo:](notes/2019-2-25-gsn-dp.md) | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20181115103924.zip) |
 
 [:top:](#awesome-privacy-protection-research-materials)
@@ -218,6 +217,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
 | LPGNN | Locally Private Graph Neural Networks | Sina Sajadmanesh, Daniel Gatica-Perez | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2006.05535) | | [:keyboard:](https://github.com/sisaman/lpgnn) |
 
 [:top:](#awesome-privacy-protection-research-materials)
