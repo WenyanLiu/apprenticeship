@@ -218,6 +218,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
+| APGE | Adversarial Privacy Preserving Graph Embedding against Inference Attack | Kaiyang Li, Guangchun Luo, Yang Ye, Wei Li, Shihao Ji, Zhipeng Cai | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2008.13072) | | [:keyboard:](https://github.com/KaiyangLi1992/Privacy-Preserving-Social-Network-Embedding) |
 | LPGNN | Locally Private Graph Neural Networks | Sina Sajadmanesh, Daniel Gatica-Perez | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2006.05535) | | [:keyboard:](https://github.com/sisaman/lpgnn) |
 
 [:top:](#awesome-privacy-protection-research-materials)
