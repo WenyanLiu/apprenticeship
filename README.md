@@ -54,6 +54,7 @@ Papers:
 - [Cryptography](#cryptography)
     - [Encrypted Database](#encrypted-database)
     - [Searchable Encryption](#searchable-encryption)
+    - [Encrypted Retrieval](#encrypted-retrieval)
 
 [:top:](#diving-in)
 
@@ -279,6 +280,14 @@ Papers:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SPiRiT | Secure Search on Encrypted Data via Multi-Ring Sketch | Adi Akavia, Dan Feldman, Hayim Shaul | CCS | 2018 | [:ledger:](https://dl.acm.org/citation.cfm?doid=3243734.3243810) | [:memo:](notes/2019-1-25-spirit.pdf) | |
 | CPABKS | Secure and Efficient Attribute-Based Encryption with Keyword Search | Haijiang Wang, Xiaolei Dong, Zhenfu Cao, Dongmei Li | CJ | 2018 | [:ledger:](https://academic.oup.com/comjnl/article/61/8/1133/4975828) | [:memo:](notes/2019-2-20-cpabks.md) | |
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+##### Encrypted Retrieval
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Practical Approximate k Nearest Neighbor Queries with Location and Query Privacy | Xun Yi, Russell Paulet, Elisa Bertino, Vijay Varadharajan | TKDE | 2016 | [:ledger:](https://ieeexplore.ieee.org/document/7389401) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
