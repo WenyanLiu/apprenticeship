@@ -51,6 +51,7 @@ Papers:
     - [Recommender Systems](#recommender-systems)
     - [Survival Analysis](#survival-analysis)
     - [Natural Language Processing](#natural-language-processing)
+- [Machine Unlearning](#machine-unlearning)
 - [Cryptography](#cryptography)
     - [Encrypted Database](#encrypted-database)
     - [Searchable Encryption](#searchable-encryption)
@@ -219,7 +220,6 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| GraphEraser | Graph Unlearning | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2103.14991) | | |
 | Adam-DP | Privacy-Preserving Graph Convolutional Networks for Text Classification | Timour Igamberdiev, Ivan Habernal | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2102.09604) | | |
 | PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
 | APGE | Adversarial Privacy Preserving Graph Embedding against Inference Attack | Kaiyang Li, Guangchun Luo, Yang Ye, Wei Li, Shihao Ji, Zhipeng Cai | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2008.13072) | | [:keyboard:](https://github.com/KaiyangLi1992/Privacy-Preserving-Social-Network-Embedding) |
@@ -262,6 +262,14 @@ Papers:
 | MG-PriFair | Multimodal Review Generation with Privacy and Fairness Awareness | Xuan-Son Vu, Thanh-Son Nguyen, Duc-Trong Le, Lili Jiang | COLING | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.coling-main.37/) | | [:camera:](https://people.cs.umu.se/sonvx/files/mgprifair_coling2020_poster.pdf) |
 | | Towards Privacy by Design in Learner Corpora Research: A Case of On-the-fly Pseudonymization of Swedish Learner Essays | Elena Volodina, Yousuf Ali Mohammed, Sandra Derbring, Arild Matsson, Beáta Megyesi | COLING | 2020 | [:ledger:](https://www.aclweb.org/anthology/2020.coling-main.32/) | | |
 | OME | Towards Differentially Private Text Representations | Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao | SIGIR | 2020 | [:ledger:](https://dl.acm.org/doi/10.1145/3397271.3401260) | [:memo:](https://medium.com/swlh/how-to-preserve-privacy-of-text-representations-in-nlp-3ed244148d75) | [:keyboard:](https://github.com/lingjuanlv/Differentially-Private-Text-Representations) |
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+#### Machine Unlearning
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| GraphEraser | Graph Unlearning | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2103.14991) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
