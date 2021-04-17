@@ -220,6 +220,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| FedGNN | FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang, Xing Xie | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2102.04925) | | |
 | Adam-DP | Privacy-Preserving Graph Convolutional Networks for Text Classification | Timour Igamberdiev, Ivan Habernal | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2102.09604) | | |
 | PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
 | APGE | Adversarial Privacy Preserving Graph Embedding against Inference Attack | Kaiyang Li, Guangchun Luo, Yang Ye, Wei Li, Shihao Ji, Zhipeng Cai | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2008.13072) | | [:keyboard:](https://github.com/KaiyangLi1992/Privacy-Preserving-Social-Network-Embedding) |
