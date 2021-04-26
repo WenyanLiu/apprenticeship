@@ -222,6 +222,7 @@ Papers:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | FedGNN | FedGNN: Federated Graph Neural Network for Privacy-Preserving Recommendation | Chuhan Wu, Fangzhao Wu, Yang Cao, Yongfeng Huang, Xing Xie | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2102.04925) | | |
 | Adam-DP | Privacy-Preserving Graph Convolutional Networks for Text Classification | Timour Igamberdiev, Ivan Habernal | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2102.09604) | | |
+| | Data-Dependent Differentially Private Parameter Learning for Directed Graphical Models | Amrita Roy Chowdhury, Theodoros Rekatsinas, Somesh Jha | ICML | 2020 | [:ledger:](http://proceedings.mlr.press/v119/chowdhury20a/chowdhury20a.pdf) | | [:ledger:](http://proceedings.mlr.press/v119/chowdhury20a/chowdhury20a-supp.pdf) |
 | PPKG | Survey and Open Problems in Privacy Preserving Knowledge Graph: Merging, Query, Representation, Completion and Applications | Chaochao Chen, Jamie Cui, Guanfeng Liu, Jia Wu, Li Wang | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2011.10180) | | |
 | APGE | Adversarial Privacy Preserving Graph Embedding against Inference Attack | Kaiyang Li, Guangchun Luo, Yang Ye, Wei Li, Shihao Ji, Zhipeng Cai | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2008.13072) | | [:keyboard:](https://github.com/KaiyangLi1992/Privacy-Preserving-Social-Network-Embedding) |
 | LPGNN | Locally Private Graph Neural Networks | Sina Sajadmanesh, Daniel Gatica-Perez | CoRR | 2020 | [:ledger:](https://arxiv.org/abs/2006.05535) | | [:keyboard:](https://github.com/sisaman/lpgnn) |
