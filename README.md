@@ -247,7 +247,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| | Differentially Private Survival Function Estimation | Lovedeep Gondara, Ke Wang | CoRR | 2019 | [:ledger:](https://openreview.net/forum?id=ryx_Y6EYwH) | | [:keyboard:](https://bit.ly/2kNHC1J) | 
+| | Differentially Private Survival Function Estimation | Lovedeep Gondara, Ke Wang | MLHC | 2020 | [:ledger:](http://proceedings.mlr.press/v126/gondara20a/gondara20a.pdf) | | [:keyboard:](https://bit.ly/2kNHC1J) | 
 
 [:top:](#awesome-privacy-protection-research-materials)
 
