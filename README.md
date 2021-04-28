@@ -518,6 +518,7 @@ A curated list of awesome research materials.
 | | Graph Neural Networks for Natural Language Processing | Shikhar Vashishth, Naganand Yadati, Partha Talukdar | EMNLP | 2019 | | [:camera:](https://shikhar-vashishth.github.io/assets/pdf/emnlp19_tutorial.pdf)[:keyboard:](https://github.com/svjan5/GNNs-for-NLP)[:camera:](https://vimeo.com/439776761)[:camera:](https://vimeo.com/439777686) |
 | | Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI | Alejandro Barredo Arrieta, Natalia Díaz Rodríguez, Javier Del Ser, Adrien Bennetot, Siham Tabik, Alberto Barbado, Salvador García, Sergio Gil-Lopez, Daniel Molina, Richard Benjamins, Raja Chatila, Francisco Herrera | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1910.10045) | [:memo:](https://mp.weixin.qq.com/s/kJW-EM20C5JEQIKNtBYVtA) | |
 | | 以机器学习的视角来看时序点过程的最新进展 | 严骏驰 | 中国自动化学会模式识别与机器智能专业委员会通讯 | 2019 | [:ledger:](http://www.nlpr.ia.ac.cn/prmi-caa/download_files/CAA-PRMI%E4%B8%93%E5%A7%94%E4%BC%9A%E9%80%9A%E8%AE%AF2019%E5%B9%B4%E7%AC%AC1%E6%9C%9F(%E6%80%BB%E7%AC%AC5%E6%9C%9F)-%E5%AE%9A%E7%A8%BF%E7%89%88.pdf) | | |
+| | Temporal Point Processes and the Conditional Intensity Function | Jakob Gulddahl Rasmussen | CoRR | 2018 | [:ledger:](https://arxiv.org/pdf/1806.00221.pdf) | | |
 | | Efficient Per-Example Gradient Computations | Ian J. Goodfellow | CoRR | 2015 | [:ledger:](https://arxiv.org/pdf/1510.01799.pdf) | | |
 
 [:top:](#other-awesome-research-materials)
