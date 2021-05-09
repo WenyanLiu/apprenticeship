@@ -233,6 +233,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Extended PrivSR | Towards privacy preserving social recommendation under personalized privacy settings | Xuying Meng, Suhang Wang, Kai Shu, Jundong Li, Bo Chen, Huan Liu, Yujun Zhang | WWWJ | 2019 | [:ledger:](https://link.springer.com/article/10.1007%2Fs11280-018-0620-z) | | |
 | FedMF | Secure Federated Matrix Factorization | Di Chai, Leye Wang, Kai Chen, Qiang Yang | FML | 2019 | [:ledger:](https://arxiv.org/abs/1906.05108) | [:memo:](https://mp.weixin.qq.com/s/F6HvZeaPpQKmhKIxMFqBaQ) | [:keyboard:](https://github.com/Di-Chai/FedMF) |
 | GD-DR | Privacy Enhanced Matrix Factorization for Recommendation with Local Differential Privacy | Hyejin Shin, Sungwook Kim, Junbum Shin, Xiaokui Xiao | TKDE | 2018 | [:ledger:](https://ieeexplore.ieee.org/document/8290673) | [:memo:](notes/2019-3-7-gd-dr.pdf) | |
 | PrivSR | Personalized Privacy-Preserving Social Recommendation | Xuying Meng, Suhang Wang, Kai Shu, Jundong Li, Bo Chen, Huan Liu, Yujun Zhang | AAAI | 2018 | [:ledger:](http://www.public.asu.edu/~jundongl/paper/AAAI18_PrivSR.pdf) | [:memo:](notes/2018-11-21-privsr.md) | [:floppy_disk:](https://raw.githubusercontent.com/mxyenguing/PrivSR/854300602172d2e4d6d66810479f64134c0b55ed/appendix.pdf) |
