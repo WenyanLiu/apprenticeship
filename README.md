@@ -521,6 +521,7 @@ A curated list of awesome research materials.
 | | 以机器学习的视角来看时序点过程的最新进展 | 严骏驰 | 中国自动化学会模式识别与机器智能专业委员会通讯 | 2019 | [:ledger:](http://www.nlpr.ia.ac.cn/prmi-caa/download_files/CAA-PRMI%E4%B8%93%E5%A7%94%E4%BC%9A%E9%80%9A%E8%AE%AF2019%E5%B9%B4%E7%AC%AC1%E6%9C%9F(%E6%80%BB%E7%AC%AC5%E6%9C%9F)-%E5%AE%9A%E7%A8%BF%E7%89%88.pdf) | | |
 | | Temporal Point Processes and the Conditional Intensity Function | Jakob Gulddahl Rasmussen | CoRR | 2018 | [:ledger:](https://arxiv.org/pdf/1806.00221.pdf) | | |
 | | Efficient Per-Example Gradient Computations | Ian J. Goodfellow | CoRR | 2015 | [:ledger:](https://arxiv.org/pdf/1510.01799.pdf) | | |
+| BPR | BPR: Bayesian Personalized Ranking from Implicit Feedback | Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme | UAI | 2009 | [:ledger:](https://arxiv.org/abs/1205.2618) | | |
 
 [:top:](#other-awesome-research-materials)
 
