@@ -487,11 +487,11 @@ A curated list of awesome blockchain research materials.
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | Yellow Paper | Ethereum: A Secure Decentralised Generalised Transaction Ledger | Dr. Gavin Wood | | | [:ledger:](https://ethereum.github.io/yellowpaper/paper.pdf) | | |
 | 黄皮书 | 以太坊：一种安全去中心化的通用交易账本 | 崔广斌, 高天露 | | | [:ledger:](https://github.com/yuange1024/ethereum_yellowpaper/blob/master/ethereum_yellow_paper_cn.pdf) | | |
-| | Untangling Blockchain: A Data Processing View of Blockchain Systems | Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang | TKDE | 2018 | [:ledger:](https://ieeexplore.ieee.org/abstract/document/8246573) | | [:floppy_disk:](http://www.mzhtechnologies.com/paper/mzh_blockchain_whitepaper_pub.pdf) |
+| | Untangling Blockchain: A Data Processing View of Blockchain Systems | Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang | TKDE | 2018 | [:ledger:](https://ieeexplore.ieee.org/abstract/document/8246573) | [:memo:](https://github.com/WenyanLiu/blockchain-group/blob/master/papers/notes/%E4%BB%8E%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E7%9A%84%E8%A7%92%E5%BA%A6%E7%9C%8B%E5%8C%BA%E5%9D%97%E9%93%BE%E7%B3%BB%E7%BB%9F.pdf) | [:floppy_disk:](http://www.mzhtechnologies.com/paper/mzh_blockchain_whitepaper_pub.pdf) |
 | | Making Sense of Blockchain Applications: A Typology for HCI | Chris Elsden, Arthi Manohar, Jo Briggs, Mike Harding, Chris Speed, John Vines | CHI | 2018 | [:ledger:](https://dl.acm.org/doi/10.1145/3173574.3174032) | | [:memo:](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3173574.3174032&file=pn3772-file4.zip) |
 | BigchainDB | BigchainDB 2.0: The Blockchain Database | BigchainDB | BigchainDB | 2018 | [:ledger:](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) | | [:keyboard:](https://github.com/bigchaindb/bigchaindb) |
 | BLOCKBENCH | BLOCKBENCH: A Framework for Analyzing Private Blockchains | Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan | SIGMOD | 2017 | [:ledger:](https://dl.acm.org/doi/10.1145/3035918.3064033) | | [:keyboard:](https://github.com/ooibc88/blockbench) |
-| | 区块链隐私保护研究综述 | 祝烈煌, 高峰, 沈蒙, 李艳东, 郑宝昆, 毛洪亮, 吴震 | 计算机研究与发展 | 2017 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=JFYZ201710006) | | |
+| | 区块链隐私保护研究综述 | 祝烈煌, 高峰, 沈蒙, 李艳东, 郑宝昆, 毛洪亮, 吴震 | 计算机研究与发展 | 2017 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=JFYZ201710006) | [:memo:](https://github.com/WenyanLiu/blockchain-group/blob/master/papers/notes/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E7%A0%94%E7%A9%B6%E7%BB%BC%E8%BF%B0.md) | |
 
 [:top:](#awesome-blockchain-research-materials)
 
