@@ -490,6 +490,7 @@ A curated list of awesome blockchain research materials.
 | | Untangling Blockchain: A Data Processing View of Blockchain Systems | Tien Tuan Anh Dinh, Rui Liu, Meihui Zhang, Gang Chen, Beng Chin Ooi, Ji Wang | TKDE | 2018 | [:ledger:](https://ieeexplore.ieee.org/abstract/document/8246573) | | [:floppy_disk:](http://www.mzhtechnologies.com/paper/mzh_blockchain_whitepaper_pub.pdf) |
 | | Making Sense of Blockchain Applications: A Typology for HCI | Chris Elsden, Arthi Manohar, Jo Briggs, Mike Harding, Chris Speed, John Vines | CHI | 2018 | [:ledger:](https://dl.acm.org/doi/10.1145/3173574.3174032) | | [:memo:](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3173574.3174032&file=pn3772-file4.zip) |
 | BigchainDB | BigchainDB 2.0: The Blockchain Database | BigchainDB | BigchainDB | 2018 | [:ledger:](https://www.bigchaindb.com/whitepaper/bigchaindb-whitepaper.pdf) | | [:keyboard:](https://github.com/bigchaindb/bigchaindb) |
+| BLOCKBENCH | BLOCKBENCH: A Framework for Analyzing Private Blockchains | Tien Tuan Anh Dinh, Ji Wang, Gang Chen, Rui Liu, Beng Chin Ooi, Kian-Lee Tan | SIGMOD | 2017 | [:ledger:](https://dl.acm.org/doi/10.1145/3035918.3064033) | | [:keyboard:](https://github.com/ooibc88/blockbench) |
 | | 区块链隐私保护研究综述 | 祝烈煌, 高峰, 沈蒙, 李艳东, 郑宝昆, 毛洪亮, 吴震 | 计算机研究与发展 | 2017 | [:ledger:](http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=JFYZ201710006) | | |
 
 [:top:](#awesome-blockchain-research-materials)
