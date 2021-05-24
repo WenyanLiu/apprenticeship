@@ -53,8 +53,9 @@ Papers:
     - [Natural Language Processing](#natural-language-processing)
 - [Machine Unlearning](#machine-unlearning)
 - [Cryptography](#cryptography)
-    - [Encrypted Database](#encrypted-database)
+    - [Oblivious Transfer](#oblivious-transfer)
     - [Searchable Encryption](#searchable-encryption)
+    - [Encrypted Database](#encrypted-database)
     - [Encrypted Retrieval](#encrypted-retrieval)
 
 [:top:](#diving-in)
@@ -278,11 +279,11 @@ Papers:
 
 #### Cryptography
 
-##### Encrypted Database
+##### Oblivious Transfer
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| CryptZip | Sa Wang, Yiwen Shao, Yungang Bao | Practices of backuping homomorphically encrypted databases | FCS | 2019 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-019-8394-8) | | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20190326093134.pdf) |
+| | Improved Private Set Intersection Against Malicious Adversaries | Peter Rindal, Mike Rosulek | EUROCRYPT | 2017 | [:ledger:](https://link.springer.com/chapter/10.1007%2F978-3-319-56620-7_9) | | [:keyboard:](https://github.com/osu-crypto/libPSI)
 
 [:top:](#awesome-privacy-protection-research-materials)
 
@@ -292,6 +293,14 @@ Papers:
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | SPiRiT | Secure Search on Encrypted Data via Multi-Ring Sketch | Adi Akavia, Dan Feldman, Hayim Shaul | CCS | 2018 | [:ledger:](https://dl.acm.org/citation.cfm?doid=3243734.3243810) | [:memo:](notes/2019-1-25-spirit.pdf) | |
 | CPABKS | Secure and Efficient Attribute-Based Encryption with Keyword Search | Haijiang Wang, Xiaolei Dong, Zhenfu Cao, Dongmei Li | CJ | 2018 | [:ledger:](https://academic.oup.com/comjnl/article/61/8/1133/4975828) | [:memo:](notes/2019-2-20-cpabks.md) | |
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+##### Encrypted Database
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| CryptZip | Sa Wang, Yiwen Shao, Yungang Bao | Practices of backuping homomorphically encrypted databases | FCS | 2019 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-019-8394-8) | | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20190326093134.pdf) |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
