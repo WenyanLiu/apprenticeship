@@ -301,6 +301,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | CryptZip | Sa Wang, Yiwen Shao, Yungang Bao | Practices of backuping homomorphically encrypted databases | FCS | 2019 | [:ledger:](http://journal.hep.com.cn/fcs/EN/10.1007/s11704-019-8394-8) | | [:camera:](http://academic.hep.com.cn/fileup/2095-2228/SUPPL/20190326093134.pdf) |
+| | 一种基于保形加密的大数据脱敏系统实现及评估 | 卞超轶, 朱少敏, 周涛 | 电信科学 | 2017 | [:ledger:](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2017&filename=DXKX201703017) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
