@@ -538,6 +538,13 @@ A curated list of awesome research materials.
 
 [:top:](#other-awesome-research-materials)
 
+#### Generalization
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Understanding deep learning requires rethinking generalization | Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals | ICLR | 2017 | [:ledger:](https://openreview.net/pdf?id=Sy8gdB9xx) | | [:memo:](https://openreview.net/forum?id=Sy8gdB9xx)[:keyboard:](https://github.com/pluskid/fitting-random-labels)[:camera:](https://pluskid.org/files/slides/ICLR2017.key)[:keyboard:](https://pluskid.org/files/slides/ICLR2017-Poster.pdf) |
+
+[:top:](#other-awesome-research-materials)
+
 #### Large-Scale Optimization
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
