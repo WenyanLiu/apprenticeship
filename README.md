@@ -517,6 +517,7 @@ A curated list of awesome blockchain research materials.
 A curated list of awesome research materials.
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Generalization](#generalization)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Combinatorial optimization](#combinatorial-optimization)
 
