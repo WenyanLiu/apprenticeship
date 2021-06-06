@@ -542,6 +542,7 @@ A curated list of awesome research materials.
 #### Generalization
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Does Learning Require Memorization? A Short Tale about a Long Tail | Vitaly Feldman | STOC | 2020 | [:ledger:](https://dl.acm.org/doi/10.1145/3357713.3384290) | | [:ledger:](https://arxiv.org/pdf/1906.05271.pdf)[:camera:](http://vtaly.net/slides/Memorization-Full-Stanford.pptx)[:camera:](https://www.youtube.com/watch?v=XTRMSYRVBmU) |
 | | Understanding deep learning requires rethinking generalization | Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals | ICLR | 2017 | [:ledger:](https://openreview.net/pdf?id=Sy8gdB9xx) | | [:memo:](https://openreview.net/forum?id=Sy8gdB9xx)[:keyboard:](https://github.com/pluskid/fitting-random-labels)[:camera:](https://pluskid.org/files/slides/ICLR2017.key)[:keyboard:](https://pluskid.org/files/slides/ICLR2017-Poster.pdf) |
 
 [:top:](#other-awesome-research-materials)
