@@ -517,6 +517,7 @@ A curated list of awesome blockchain research materials.
 A curated list of awesome research materials.
 
 - [Artificial Intelligence](#artificial-intelligence)
+- [Robust Statistics](#robust-statistics)
 - [Generalization](#generalization)
 - [Large-Scale Optimization](#large-scale-optimization)
 - [Combinatorial optimization](#combinatorial-optimization)
@@ -536,6 +537,13 @@ A curated list of awesome research materials.
 | | Temporal Point Processes and the Conditional Intensity Function | Jakob Gulddahl Rasmussen | CoRR | 2018 | [:ledger:](https://arxiv.org/pdf/1806.00221.pdf) | | |
 | | Efficient Per-Example Gradient Computations | Ian J. Goodfellow | CoRR | 2015 | [:ledger:](https://arxiv.org/pdf/1510.01799.pdf) | | |
 | BPR | BPR: Bayesian Personalized Ranking from Implicit Feedback | Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme | UAI | 2009 | [:ledger:](https://arxiv.org/abs/1205.2618) | | |
+
+[:top:](#other-awesome-research-materials)
+
+#### Robust Statistics
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Understanding Black-box Predictions via Influence Functions | Pang Wei Koh, Percy Liang | ICML | 2017 | [:ledger:](http://proceedings.mlr.press/v70/koh17a/koh17a.pdf) | | [:ledger:](http://proceedings.mlr.press/v70/koh17a/koh17a-supp.pdf)[:keyboard:](https://github.com/kohpangwei/influence-release)[:keyboard:](https://worksheets.codalab.org/worksheets/0x2b314dc3536b482dbba02783a24719fd/)[:camera:](https://drive.google.com/file/d/1ZLY_9Wsk9MA0kXAoJDd6o1gbLvHhyPAn/view) |
 
 [:top:](#other-awesome-research-materials)
 
