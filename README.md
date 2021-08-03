@@ -105,6 +105,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Tighter Generalization Bounds for Iterative Differentially Private Learning Algorithms | Fengxiang He, Bohan Wang, Dacheng Tao | UAI | 2021 | [:ledger:](https://www.auai.org/uai2021/pdf/uai2021.308.pdf) | [:memo:](https://mp.weixin.qq.com/s/Uw5d8gZhWlUFokkvE-TjIw) | |
 | OSDP | One-sided Differential Privacy | Ios Kotsogiannis, Stelios Doudalis, Samuel Haney, Ashwin Machanavajjhala, Sharad Mehrotra | ICDE | 2020 | [:ledger:](https://ieeexplore.ieee.org/document/9101725) | | [:camera:](https://drive.google.com/file/d/1_xccXvo5ZvNlbrxV2PLVXjG-YCbZmUOx/view)[:camera:](https://drive.google.com/file/d/1p5udkjSzcJipgW6pXaJ2Ns4qwz3fnEZG/view) |
 | SVT-S | Understanding the Sparse Vector Technique for Differential Privacy | Min Lyu, Dong Su, Ninghui Li | VLDB | 2017 | [:ledger:](https://dl.acm.org/citation.cfm?id=3055331) | | |
 | | Nearly-Optimal Private LASSO | Kunal Talwar, Abhradeep Thakurta, Li Zhang | NIPS | 2015 | [:ledger:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Paper.pdf)  | [:memo:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Reviews.html) | [:ledger:](https://proceedings.neurips.cc/paper/2015/file/52d080a3e172c33fd6886a37e7288491-Supplemental.zip) |
