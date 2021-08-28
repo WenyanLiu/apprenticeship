@@ -57,6 +57,7 @@ Papers:
     - [Searchable Encryption](#searchable-encryption)
     - [Encrypted Database](#encrypted-database)
     - [Encrypted Retrieval](#encrypted-retrieval)
+    - [Encrypted Inference](#encrypted-inference)
 
 [:top:](#diving-in)
 
@@ -311,6 +312,14 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Practical Approximate k Nearest Neighbor Queries with Location and Query Privacy | Xun Yi, Russell Paulet, Elisa Bertino, Vijay Varadharajan | TKDE | 2016 | [:ledger:](https://ieeexplore.ieee.org/document/7389401) | | |
+
+[:top:](#awesome-privacy-protection-research-materials)
+
+##### Encrypted Inference
+
+| | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| CryptoNets | CryptoNets: Applying Neural Networks to Encrypted Data with High Throughput and Accuracy | Ran Gilad-Bachrach, Nathan Dowlin, Kim Laine, Kristin E. Lauter, Michael Naehrig, John Wernsing | ICML | 2016 | [:ledger:](http://proceedings.mlr.press/v48/gilad-bachrach16.pdf) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
