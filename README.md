@@ -312,6 +312,7 @@ Papers:
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | | Practical Approximate k Nearest Neighbor Queries with Location and Query Privacy | Xun Yi, Russell Paulet, Elisa Bertino, Vijay Varadharajan | TKDE | 2016 | [:ledger:](https://ieeexplore.ieee.org/document/7389401) | | |
+| | A Privacy-Preserving Framework for Large-Scale Content-Based Information Retrieval | Li Weng, Laurent Amsaleg, April Morton, Stéphane Marchand-Maillet | TIFS | 2015 | [:ledger:](https://ieeexplore.ieee.org/document/6940262) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
