@@ -416,6 +416,7 @@ Papers:
 #### Tutorial
 | | Instructors | Institution | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Fairness and Control of Exposure in Two-sided Markets | Thorsten Joachims | ICTIR | 2021 | [:ledger:](https://dl.acm.org/doi/10.1145/3471158.3472226) | | |
 | Fairness-Aware Machine Learning: Practical Challenges and Lessons Learned | Sarah Bird, Ben Hutchinson, Krishnaram Kenthapadi, Emre Kıcıman, Margaret Mitchell | Microsoft<br>Google<br>LinkedIn | KDD 2019 | | [:memo:](https://engineering.linkedin.com/blog/2019/fairness-privacy-transparency-by-design) | [:camera:](https://www.slideshare.net/KrishnaramKenthapadi/fairnessaware-machine-learning-practical-challenges-and-lessons-learned-kdd-2019-tutorial) |
 | Challenges of incorporating algorithmic fairness into industry practice | Henriette Cramer, Ken Holstein, Jenn Wortman Vaughan, Hal Daumé III, Miroslav Dudík, Hanna Wallach, Sravana Reddy, Jean Garcia-Gathright | Microsoft Research | ACM FAccT 2019 | | | [:camera:](https://drive.google.com/file/d/1rUQkVS0NzSH3IEqZDsczSxBbhYHbjamN/view) |
 
