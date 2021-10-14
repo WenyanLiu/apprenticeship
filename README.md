@@ -491,6 +491,7 @@ Papers:
 | Greedy Capture<br>Local Capture | Proportionally Fair Clustering | Xingyu Chen, Brandon Fain, Liang Lyu, Kamesh Munagala | ICML | 2019 | [:ledger:](http://proceedings.mlr.press/v97/chen19d.html) | | [:memo:](https://arxiv.org/abs/1905.03674)[:keyboard:](https://github.com/DukeXY/Proportionally-Fair-Clustering)[:camera:](https://slideslive.com/38917643/fairness) |
 | GF1A/B | Group Fairness for the Allocation of Indivisible Goods | Vincent Conitzer, Rupert Freeman, Nisarg Shah, Jennifer Wortman Vaughan | AAAI | 2019 | [:ledger:](https://www.aaai.org/ojs/index.php/AAAI/article/view/4010) | | [:memo:](https://users.cs.duke.edu/~conitzer/group-fairness-full.pdf) |
 | FULTR | Fair Learning-to-Rank from Implicit Feedback | Himank Yadav, Zhengxiao Du, Thorsten Joachims | CoRR | 2019 | [:ledger:](https://arxiv.org/abs/1911.08054) | | |
+| | Fairness Without Demographics in Repeated Loss Minimization | Tatsunori B. Hashimoto, Megha Srivastava, Hongseok Namkoong, Percy Liang | ICML | 2018 | [:ledger:](http://proceedings.mlr.press/v80/hashimoto18a/hashimoto18a.pdf) | | [:ledger:](http://proceedings.mlr.press/v80/hashimoto18a/hashimoto18a-supp.zip)[:keyboard:](https://worksheets.codalab.org/worksheets/0x17a501d37bbe49279b0c70ae10813f4c/) |
 
 [:top:](#awesome-fairness-research-materials)
 
