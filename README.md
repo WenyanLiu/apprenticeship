@@ -275,6 +275,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | Remember What You Want to Forget: Algorithms for Machine Unlearning | Ayush Sekhari, Jayadev Acharya, Gautam Kamath, Ananda Theertha Suresh | CoRR | 2021 | [:ledger:](https://arxiv.org/pdf/2103.03279.pdf) | | |
 | GraphEraser | Graph Unlearning | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2103.14991) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
