@@ -569,6 +569,7 @@ A curated list of awesome research materials.
 | | Temporal Point Processes and the Conditional Intensity Function | Jakob Gulddahl Rasmussen | CoRR | 2018 | [:ledger:](https://arxiv.org/pdf/1806.00221.pdf) | | |
 | softImpute-ALS | Matrix completion and low-rank SVD via fast alternating least squares | Trevor Hastie, Rahul Mazumder, Jason D. Lee, Reza Zadeh | JMLR | 2015 | [:ledger:](https://dl.acm.org/doi/10.5555/2789272.2912106) | | [:keyboard:](https://github.com/rezazadeh/spark/tree/fastals/examples/src/main/scala/org/apache/spark/examples/fastals)[:keyboard:](http://web.stanford.edu/~hastie/swData/softImpute/vignette.html)[:keyboard:](https://cran.r-project.org/web/packages/softImpute/index.html) |
 | | Efficient Per-Example Gradient Computations | Ian J. Goodfellow | CoRR | 2015 | [:ledger:](https://arxiv.org/pdf/1510.01799.pdf) | | |
+| RBO | A similarity measure for indefinite rankings | William Webber, Alistair Moffat, Justin Zobel | TOIS | 2010 | [:ledger:](https://dl.acm.org/doi/10.1145/1852102.1852106) | |
 | BPR | BPR: Bayesian Personalized Ranking from Implicit Feedback | Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme | UAI | 2009 | [:ledger:](https://arxiv.org/abs/1205.2618) | | |
 
 [:top:](#other-awesome-research-materials)
