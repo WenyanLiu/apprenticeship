@@ -571,6 +571,7 @@ A curated list of awesome research materials.
 | | Efficient Per-Example Gradient Computations | Ian J. Goodfellow | CoRR | 2015 | [:ledger:](https://arxiv.org/pdf/1510.01799.pdf) | | |
 | RBO | A similarity measure for indefinite rankings | William Webber, Alistair Moffat, Justin Zobel | TOIS | 2010 | [:ledger:](https://dl.acm.org/doi/10.1145/1852102.1852106) | |
 | BPR | BPR: Bayesian Personalized Ranking from Implicit Feedback | Steffen Rendle, Christoph Freudenthaler, Zeno Gantner, Lars Schmidt-Thieme | UAI | 2009 | [:ledger:](https://arxiv.org/abs/1205.2618) | | |
+| | Damped Newton Algorithms for Matrix Factorization with Missing Data | A. M. Buchanan, Andrew W. Fitzgibbon | CVPR | 2005 | [:ledger:](https://ieeexplore.ieee.org/document/1467459) | | |
 
 [:top:](#other-awesome-research-materials)
 
