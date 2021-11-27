@@ -278,6 +278,7 @@ Papers:
 | Mixed-Linear Forgetting | Mixed-Privacy Forgetting in Deep Networks | Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, Stefano Soatto | CVPR | 2021 | [:ledger:](https://openaccess.thecvf.com/content/CVPR2021/papers/Golatkar_Mixed-Privacy_Forgetting_in_Deep_Networks_CVPR_2021_paper.pdf) | | [:ledger:](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Golatkar_Mixed-Privacy_Forgetting_in_CVPR_2021_supplemental.pdf) |
 | | Remember What You Want to Forget: Algorithms for Machine Unlearning | Ayush Sekhari, Jayadev Acharya, Gautam Kamath, Ananda Theertha Suresh | CoRR | 2021 | [:ledger:](https://arxiv.org/pdf/2103.03279.pdf) | | |
 | GraphEraser | Graph Unlearning | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2103.14991) | | |
+| | Verifying that the influence of a user data point has been removed from a machine learning classifier | Saurabh Shintre, Jasjeet Dhaliwal | Patent | 2018 | [:ledger:](https://patentimages.storage.googleapis.com/ce/5d/6e/ce48841fa98465/US10225277.pdf) | | |
 
 [:top:](#awesome-privacy-protection-research-materials)
 
