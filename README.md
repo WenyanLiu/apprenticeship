@@ -552,7 +552,7 @@ A curated list of awesome research materials.
 - [Robust Statistics](#robust-statistics)
 - [Generalization](#generalization)
 - [Large-Scale Optimization](#large-scale-optimization)
-- [Combinatorial optimization](#combinatorial-optimization)
+- [Combinatorial Optimization](#combinatorial-optimization)
 
 [:top:](#diving-in)
 
@@ -607,7 +607,7 @@ A curated list of awesome research materials.
 
 [:top:](#other-awesome-research-materials)
 
-#### Combinatorial optimization
+#### Combinatorial Optimization
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | GSLS | Optimizing top-k retrieval: submodularity analysis and search strategies | Chaofeng Sha, Keqiang Wang, Dell Zhang, Xiaoling Wang, Aoying Zhou | FCS<br>WAIM | 2016<br>2014 | [:ledger:](https://link.springer.com/article/10.1007%2Fs11704-015-5222-7)<br>[:ledger:](https://doi.org/10.1007/978-3-319-08010-9_3) | | |
