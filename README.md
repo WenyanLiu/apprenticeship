@@ -275,6 +275,7 @@ Papers:
 
 | | Title | Authors | Published in | Year | Files | Notes | Supplementaries |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| | When Machine Unlearning Jeopardizes Privacy | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CCS | 2021 | [:ledger:](https://dl.acm.org/doi/10.1145/3460120.3484756) | | [:keyboard:](https://github.com/MinChen00/UnlearningLeaks)[:camera:](https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3460120.3484756&file=CCS21-fp212.mp4) |
 | Mixed-Linear Forgetting | Mixed-Privacy Forgetting in Deep Networks | Aditya Golatkar, Alessandro Achille, Avinash Ravichandran, Marzia Polito, Stefano Soatto | CVPR | 2021 | [:ledger:](https://openaccess.thecvf.com/content/CVPR2021/papers/Golatkar_Mixed-Privacy_Forgetting_in_Deep_Networks_CVPR_2021_paper.pdf) | | [:ledger:](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Golatkar_Mixed-Privacy_Forgetting_in_CVPR_2021_supplemental.pdf) |
 | | Remember What You Want to Forget: Algorithms for Machine Unlearning | Ayush Sekhari, Jayadev Acharya, Gautam Kamath, Ananda Theertha Suresh | CoRR | 2021 | [:ledger:](https://arxiv.org/pdf/2103.03279.pdf) | | |
 | GraphEraser | Graph Unlearning | Min Chen, Zhikun Zhang, Tianhao Wang, Michael Backes, Mathias Humbert, Yang Zhang | CoRR | 2021 | [:ledger:](https://arxiv.org/abs/2103.14991) | | |
